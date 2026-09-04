@@ -1,0 +1,1056 @@
+id,source,document_version,section,condition,title,subsection,pdf_pages,printed_pages,content
+chunk_001,visa-dispute-guidelines.pdf,June 2024,3,10.1,EMV Liability Shift Counterfeit Fraud,Why did I get this notification?,24,21,"A cardholder is claiming that they did not authorize or participate in a transaction that you 
+processed on a counterfeit card. 
+The cardholder’s bank determined all of the following has occurred: 
+– The transaction was completed in a card-present environment with a card that was reported 
+as counterfeit, 
+– The transaction qualifies for the EMV liability shift, 
+– The card is a chip card, and 
+– Either of these things occurred: 
+– The transaction did not take place at a chip-reading device (terminal entry capability 
+code was not 5). 
+– The transaction was chip-initiated and, the transaction was authorized online, however, 
+the card processor did not transmit the full chip data to Visa in the authorization 
+request."
+chunk_002,visa-dispute-guidelines.pdf,June 2024,3,10.1,EMV Liability Shift Counterfeit Fraud,What caused the dispute?,24,21,"The cardholder has a chip card, but the transaction did not take place at a chip terminal or was 
+not chip read."
+chunk_003,visa-dispute-guidelines.pdf,June 2024,3,10.1,EMV Liability Shift Counterfeit Fraud,How should I respond?,24,21,"– The transaction took place at a chip terminal. 
+Provide documentation to support that the transaction was chip read and evidence that the 
+full chip data was transmitted. 
+– The transaction did not take place at a chip terminal. 
+Accept the dispute. 
+– Credit or reversal has already been processed for the transaction. 
+Provide documentation of the credit or reversal that includes the amount and the date it 
+was processed. 
+– The cardholder no longer disputes the transaction. 
+Provide a letter or email from the cardholder stating that they no longer dispute the 
+transaction."
+chunk_004,visa-dispute-guidelines.pdf,June 2024,3,10.1,EMV Liability Shift Counterfeit Fraud,How to avoid this dispute in the future,24,21,"– Make sure your terminal is EMV-compliant and the correct Cardholder Verification Method 
+(CVM) was obtained. For example: signature, PIN, etc. 
+– Chip cards are properly processed. 
+– Train your staff on the proper procedures for handling terminal issues. 
+20
+
+3 Dispute Conditions"
+chunk_005,visa-dispute-guidelines.pdf,June 2024,3,10.2,EMV Liability Shift Non-Counterfeit Fraud,Why did I get this notification?,25,22,"A cardholder is claiming that they did not authorize or participate in a transaction that you 
+processed on a lost or stolen card, or on a card not received as issued (NRI). 
+The cardholder’s bank determined all of the following has occurred: 
+– The transaction was completed in a card-present environment with a card that was reported 
+lost, stolen, or card not received as issued (NRI) 
+– The transaction qualifies for the EMV liability shift, 
+– The card is a PIN-preferring chip card, and 
+– One of these actions transpired: 
+– The transaction did not take place at a chip-reading device. 
+– A chip-initiated transaction took place at a chip-reading device that was not EMV 
+PIN-compliant. 
+– The online authorized transaction was chip-initiated without an online PIN and the card 
+processor did not transmit the full chip data to Visa in the authorization request."
+chunk_006,visa-dispute-guidelines.pdf,June 2024,3,10.2,EMV Liability Shift Non-Counterfeit Fraud,What caused the dispute?,25,22,"The most common cause of this dispute is that a PIN-preferring chip card was used either at a 
+non-EMV terminal or a chip transaction was initiated without full chip data."
+chunk_007,visa-dispute-guidelines.pdf,June 2024,3,10.2,EMV Liability Shift Non-Counterfeit Fraud,How should I respond?,25,22,"– The transaction took place at an EMV PIN compliant terminal. 
+Provide documentation to support that the transaction took place at an EMV PIN compliant 
+terminal. 
+– The transaction was not completed at an EMV PIN-compliant terminal. 
+Accept the dispute. 
+– Credit or reversal has already been processed for the transaction. 
+Provide documentation of the credit or reversal that includes the amount and the date it 
+was processed. 
+– The cardholder no longer disputes the transaction. 
+Provide a letter or email from the cardholder that states they no longer dispute the 
+transaction."
+chunk_008,visa-dispute-guidelines.pdf,June 2024,3,10.2,EMV Liability Shift Non-Counterfeit Fraud,How to avoid this dispute in the future,25,22,"– Make sure your terminal is EMV PIN-compliant and the correct Cardholder Verification 
+Method (CVM) was obtained. For example: signature, PIN, etc. 
+– Chip cards are properly processed. 
+– Train your staff on the proper procedures for handling terminal issues. 
+21
+
+3 Dispute Conditions"
+chunk_009,visa-dispute-guidelines.pdf,June 2024,3,10.3,Other Fraud – Card-Present Environment,Why did I get this notification?,26,23,"A cardholder is claiming that they did not authorize or participate in a key-entered transaction 
+conducted in a card-present environment."
+chunk_010,visa-dispute-guidelines.pdf,June 2024,3,10.3,Other Fraud – Card-Present Environment,What caused the dispute?,26,23,"The most common causes of this type of dispute are that you: 
+– Did not ensure that the card was either swiped or that the chip was read. 
+– Did not make a manual imprint of the card account information on the transaction receipt 
+for a key-entered transaction. 
+– Completed a card-absent transaction but the transaction was not properly identified as an 
+internet or mail order/ phone order."
+chunk_011,visa-dispute-guidelines.pdf,June 2024,3,10.3,Other Fraud – Card-Present Environment,How should I respond?,26,23,"– The card was swiped or chip-read and the transaction was authorized at the point of sale. 
+Provide a copy of the authorization record as proof that the card’s magnetic stripe or chip 
+was read. 
+– A manual imprint was obtained at the point of sale. (Does not apply to the Europe region) 
+Provide a copy of the manual imprint. 
+– The transaction was not swiped, chip-read, or manually imprinted. 
+Accept the dispute. 
+– Credit or reversal has already been processed for the transaction. 
+Provide documentation of the credit or reversal that includes the amount and the date it 
+was processed. 
+– The cardholder no longer disputes the transaction. 
+Provide a letter or email from the cardholder that states they no longer dispute the 
+transaction."
+chunk_012,visa-dispute-guidelines.pdf,June 2024,3,10.3,Other Fraud – Card-Present Environment,How to avoid this dispute in the future,26,23,"– Make sure all card-present transactions are either magnetic stripe-read or chip-read. 
+– If you are unable to swipe or read the chip, make a manual imprint of the card. 
+– Train your staff on the proper procedures for handling terminal issues. 
+22
+
+3 Dispute Conditions"
+chunk_013,visa-dispute-guidelines.pdf,June 2024,3,10.4,Other Fraud – Card-Absent Environment,Why did I get this notification?,27,24,"The cardholder is claiming that they did not authorize or participate in a transaction conducted 
+in a card-absent environment (i.e., internet, mail-order, phone-order, etc.)."
+chunk_014,visa-dispute-guidelines.pdf,June 2024,3,10.4,Other Fraud – Card-Absent Environment,What caused the dispute?,27,24,"The most common causes of this type of dispute are: 
+– You processed a card-absent transaction from a person who was fraudulently using a 
+payment credential. 
+– The cardholder had their payment credential taken by fraudulent means. 
+– Due to an unclear or confusing merchant name the cardholder believes the transaction to 
+be fraudulent"
+chunk_015,visa-dispute-guidelines.pdf,June 2024,3,10.4,Other Fraud – Card-Absent Environment,How should I respond?,27,24,"– The transaction was authenticated with Visa Secure. 
+Advise your card processor that the transaction was Visa Secure-authenticated at time of 
+authorization. 
+– The cardholder has two or more completed transactions (settled 120 calendar days prior 
+to the dispute) which the issuer did not report as Fraud Activity to Visa, with at least two 
+data elements (device ID, device fingerprint, or the IP address) the same as the disputed 
+transaction. 
+ Provide the following details of the two previous transactions (settled between 120–365 
+calendar days prior to the dispute processing date) and the disputed transaction: 
+– Detailed description of merchandise or services purchased for the disputed 
+Transactions and the 2 previous Transactions 
+– Effective for Disputes Processed through 18 October 2024 Date/time the merchandise 
+or services were provided 
+– Effective for Disputes Processed on or after 19 October 2024 Date the merchandise or 
+services were provided 
+– The same device ID, device fingerprint or the IP address and an additional one or more 
+data elements (Customer account/login ID, Full delivery address, device ID, device 
+fingerprint, or the IP address) used in previous transactions and disputed transactions. 
+– Documentation meeting the Compelling Evidence criteria is available. 
+For further details, refer to the Compelling Evidence Chart in Section 4: Providing Compelling 
+Evidence. 
+23
+
+3 Dispute Conditions
+ 
+– Credit or reversal has already been processed for the transaction. 
+Provide documentation of the credit or reversal that includes the amount and the date it 
+was processed. 
+– The cardholder no longer disputes the transaction. 
+Provide a letter or email from the cardholder that states they no longer dispute the 
+transaction."
+chunk_016,visa-dispute-guidelines.pdf,June 2024,3,10.4,Other Fraud – Card-Absent Environment,How to avoid this dispute in the future,28,25,". 
+– For card-absent transactions, consider using all available Visa tools such as Visa Secure, 
+CVV2 and the Address Verification Service (AVS) to help reduce fraud. Contact your card 
+processor for more information on these important risk-management tools. 
+– Always request authorization for mail order, telephone order, internet, and recurring 
+transactions, regardless of the dollar amount. 
+– Always make sure to properly identify card present and card absent transactions. 
+24
+
+3 Dispute Conditions"
+chunk_017,visa-dispute-guidelines.pdf,June 2024,3,10.5,Visa Fraud Monitoring Program,Why did I get this notification?,29,26,"Visa notified the cardholder’s bank that the Visa Fraud Monitoring Program (VFMP) identified 
+the transaction and the cardholder’s bank has not successfully disputed the transaction under 
+another dispute condition."
+chunk_018,visa-dispute-guidelines.pdf,June 2024,3,10.5,Visa Fraud Monitoring Program,What caused the dispute?,29,26,"Your business has been identified with excessive fraud levels and the issuer was permitted to 
+dispute the fraudulent transaction identified by VFMP."
+chunk_019,visa-dispute-guidelines.pdf,June 2024,3,10.5,Visa Fraud Monitoring Program,How should I respond?,29,26,"– Issuer has initiated a prior dispute for the same transaction which you have already 
+accepted. 
+Provide details of the previously accepted dispute. 
+– Credit or reversal has already been processed for the transaction. 
+Provide documentation of the credit or reversal that includes the amount and the date it 
+was processed. 
+– The cardholder no longer disputes the transaction. 
+Provide a letter or email from the cardholder that states they no longer dispute the 
+transaction. 
+25
+
+3 Dispute Conditions"
+chunk_020,visa-dispute-guidelines.pdf,June 2024,3,11.1,Card Recovery Bulletin,Why did I get this notification?,30,27,"The cardholder’s bank determined that both of these occurred: 
+– There was no authorization obtained on the transaction date, and 
+– The payment credential was listed in the Card Recovery Bulletin for the Visa region in which 
+you are located."
+chunk_021,visa-dispute-guidelines.pdf,June 2024,3,11.1,Card Recovery Bulletin,What caused the dispute?,30,27,"You failed to check the Card Recovery Bulletin (CRB) when required and completed the 
+transaction without authorization request."
+chunk_022,visa-dispute-guidelines.pdf,June 2024,3,11.1,Card Recovery Bulletin,How should I respond?,30,27,"– The transaction was not authorized and the CRB was not checked. 
+Accept the dispute. 
+– Transaction qualifies for the EMV liability shift and had taken place at an EMV compliant 
+terminal or contactless only acceptance device. 
+Provide documentation to support that the transaction took place at an EMV compliant 
+terminal. 
+– Credit or reversal has already been processed for the transaction. 
+Provide documentation of the credit or reversal that includes the amount and the date it 
+was processed."
+chunk_023,visa-dispute-guidelines.pdf,June 2024,3,11.1,Card Recovery Bulletin,How to avoid this dispute in the future,30,27,"– Make sure required authorization was obtained in accordance with the Visa Rules before 
+completing any transaction. 
+– Always review the CRB when the transaction is below your floor limit. 
+26
+
+3 Dispute Conditions"
+chunk_024,visa-dispute-guidelines.pdf,June 2024,3,11.2,Declined Authorization,Why did I get this notification?,31,28,A transaction was processed after receiving a Decline or Pickup response.
+chunk_025,visa-dispute-guidelines.pdf,June 2024,3,11.2,Declined Authorization,What caused the dispute?,31,28,"The most common cause for this type of dispute is processing a transaction after a decline or 
+card pickup response, and you sent the transaction in your capture file without attempting 
+another authorization request (commonly referred to as forced posting)."
+chunk_026,visa-dispute-guidelines.pdf,June 2024,3,11.2,Declined Authorization,How should I respond?,31,28,"– The transaction was authorized. 
+Have your card processor provide evidence that the transaction was authorized online or 
+offline via the chip. 
+– The transaction was not authorized. 
+Accept the dispute. 
+– Credit or reversal has already been processed for the transaction. 
+Provide documentation of the credit or reversal that includes the amount and the date it 
+was processed."
+chunk_027,visa-dispute-guidelines.pdf,June 2024,3,11.2,Declined Authorization,How to avoid this dispute in the future,31,28,"– Make sure required authorization is obtained in accordance with the Visa Rules before 
+completing any transaction. 
+– Train your staff on the proper procedures for handling terminal issues. 
+27
+
+3 Dispute Conditions"
+chunk_028,visa-dispute-guidelines.pdf,June 2024,3,11.3,No Authorization/Late Presentment Effective for,Why did I get this notification?,32,29,"A transaction was processed without obtaining the required authorization, or the transaction 
+was not processed within the required transaction processing time limit."
+chunk_029,visa-dispute-guidelines.pdf,June 2024,3,11.3,No Authorization/Late Presentment Effective for,What caused the dispute?,32,29,"There are four common causes for this type of dispute: 
+– An authorization was required but was not obtained. 
+– An authorization was obtained, but the transaction was processed for a higher amount. 
+– An authorization was obtained, but the transaction was not processed in time. 
+– An authorization was not required, and the transaction was not processed in time."
+chunk_030,visa-dispute-guidelines.pdf,June 2024,3,11.3,No Authorization/Late Presentment Effective for,How should I respond?,32,29,"– The transaction was authorized: 
+Have your card processor provide evidence that the transaction was authorized online or 
+offline via the chip, or 
+Document to show that the transaction date initially used to process the transaction was 
+incorrect and that the transaction was properly authorized. 
+– The transaction was completed within the time limit. 
+Provide a copy of the receipt or other evidence to disprove late presentment. 
+– The transaction was not authorized, or the transaction was completed later than the 
+specified transaction processing time limit. 
+Accept the dispute. 
+– Credit or reversal has already been processed for the transaction. 
+Provide documentation of the credit or reversal that includes the amount and the date it 
+was processed."
+chunk_031,visa-dispute-guidelines.pdf,June 2024,3,11.3,No Authorization/Late Presentment Effective for,How to avoid this dispute in the future,32,29,"– Make sure required authorization is obtained in accordance with the Visa Rules before 
+completing any transaction. 
+– Train your staff on the proper procedures for handling terminal issues. 
+– Send completed transactions to your card processor as soon as possible, preferably on the 
+day of the sale or within the timeframe specified in your merchant agreement. 
+28
+
+3 Dispute Conditions"
+chunk_032,visa-dispute-guidelines.pdf,June 2024,3,12.1,Late Presentment Effective through 12 April 2024,Why did I get this notification?,33,30,The transaction was completed past the required transaction processing time limits.
+chunk_033,visa-dispute-guidelines.pdf,June 2024,3,12.1,Late Presentment Effective through 12 April 2024,What caused the dispute?,33,30,The transaction was not sent to Visa within the timeframe required.
+chunk_034,visa-dispute-guidelines.pdf,June 2024,3,12.1,Late Presentment Effective through 12 April 2024,How should I respond?,33,30,"– The transaction was completed within the time limit. 
+Provide a copy of the receipt to support the transaction date. 
+– The transaction was completed later than the specified transaction processing time limit. 
+Accept the dispute. 
+– Credit or reversal has already been processed for the transaction. 
+Provide documentation of the credit or reversal that includes the amount and the date it 
+was processed. 
+– The cardholder no longer disputes the transaction. 
+Provide a letter or email from the cardholder that states they no longer dispute the 
+transaction."
+chunk_035,visa-dispute-guidelines.pdf,June 2024,3,12.1,Late Presentment Effective through 12 April 2024,How to avoid this dispute in the future,33,30,"– Send completed transactions to your card processor as soon as possible, preferably on the 
+day of the sale or within the timeframe specified in your merchant agreement. 
+29
+
+3 Dispute Conditions"
+chunk_036,visa-dispute-guidelines.pdf,June 2024,3,12.2,Incorrect Transaction Code,Why did I get this notification?,34,31,"The transaction was completed with an incorrect transaction code (i.e., you meant to send a 
+credit, but you actually sent a sale, and vice versa or a credit refund was processed instead of a 
+reversal or an adjustment)."
+chunk_037,visa-dispute-guidelines.pdf,June 2024,3,12.2,Incorrect Transaction Code,What caused the dispute?,34,31,"You processed a debit when you should have processed a credit (vice versa), or a credit was 
+processed when you should have processed a reversal to correct a transaction that was 
+processed in error."
+chunk_038,visa-dispute-guidelines.pdf,June 2024,3,12.2,Incorrect Transaction Code,How should I respond?,34,31,"– The transaction was settled with the correct details. 
+Provide documentation that shows the transaction was processed correctly as a credit or 
+debit to the cardholder’s account or an explanation or documentation to support that the 
+credit was not a result of a processing error on the original transaction. 
+– The transaction was processed incorrectly. 
+Accept the dispute. 
+– For a credit processed as a debit or a debit processed as a credit, a credit or reversal has 
+already been processed for the transaction. 
+Provide documentation of the credit or reversal that includes the amount and the date it 
+was processed. (Does not apply when credit was processed instead of a reversal.)"
+chunk_039,visa-dispute-guidelines.pdf,June 2024,3,12.2,Incorrect Transaction Code,How to avoid this dispute in the future,34,31,"– Train your sales staff on the proper procedures for processing credits, debits and reversals. 
+30
+
+3 Dispute Conditions"
+chunk_040,visa-dispute-guidelines.pdf,June 2024,3,12.3,Incorrect Currency,Why did I get this notification?,35,32,"The transaction was processed with an incorrect currency code (i.e., the transaction currency is 
+different from the currency transmitted through Visa; or the cardholder was not advised or did 
+not agree that Dynamic Currency Conversion (DCC) would occur)."
+chunk_041,visa-dispute-guidelines.pdf,June 2024,3,12.3,Incorrect Currency,What caused the dispute?,35,32,"There are two common causes for this type of dispute: 
+– The transaction currency is different from the currency transmitted through Visa. 
+– The cardholder claims that you failed to offer them a choice of paying in your local currency 
+or that they declined paying in their local currency."
+chunk_042,visa-dispute-guidelines.pdf,June 2024,3,12.3,Incorrect Currency,How should I respond?,35,32,"– Correct transaction currency was used to complete the transaction. 
+Provide your card processor with documentation such as: 
+– Evidence that the cardholder actively chose DCC 
+– A copy of the transaction receipt 
+– The transaction was processed incorrectly. 
+Accept the dispute. 
+– Credit or reversal has already been processed for the transaction. 
+Provide documentation of the credit or reversal that includes the amount and the date it 
+was processed. 
+– The cardholder no longer disputes the transaction. 
+Provide a letter or email from the cardholder that states they no longer dispute the 
+transaction."
+chunk_043,visa-dispute-guidelines.pdf,June 2024,3,12.3,Incorrect Currency,How to avoid this dispute in the future,35,32,"– Train your staff on the proper procedures for using different currency. 
+31
+
+3 Dispute Conditions"
+chunk_044,visa-dispute-guidelines.pdf,June 2024,3,12.4,Incorrect Account Number,Why did I get this notification?,36,33,The transaction was processed using an incorrect payment credential.
+chunk_045,visa-dispute-guidelines.pdf,June 2024,3,12.4,Incorrect Account Number,What caused the dispute?,36,33,The incorrect payment credential was used to complete the transaction.
+chunk_046,visa-dispute-guidelines.pdf,June 2024,3,12.4,Incorrect Account Number,How should I respond?,36,33,"– The payment credential on the dispute matches the payment credential on your copy of the 
+receipt. 
+Provide a copy of the receipt and if the dispute relates to a transaction processed on a 
+payment credential not on the issuer’s master file, provide a copy of the authorization log. 
+– The payment credential on the dispute does not match the payment credential on your copy 
+of the receipt. 
+Accept the dispute. 
+– Transaction was not authorized. 
+Accept the dispute. 
+– Credit or reversal has already been processed for the transaction. 
+Provide documentation of the credit or reversal that includes the amount and the date it 
+was processed. 
+– The cardholder no longer disputes the transaction. 
+Provide a letter or email from the cardholder that states they no longer dispute the 
+transaction."
+chunk_047,visa-dispute-guidelines.pdf,June 2024,3,12.4,Incorrect Account Number,How to avoid this dispute in the future,36,33,"Train your sales staff on the proper procedures for processing transactions, including the 
+recommendation that all transactions be swiped, or chip read. 
+32
+
+3 Dispute Conditions"
+chunk_048,visa-dispute-guidelines.pdf,June 2024,3,12.5,Incorrect Amount,Why did I get this notification?,37,34,"The cardholder submitted a claim to their bank that says one of the following things happened: 
+– The transaction amount is incorrect. 
+– An addition or transposition error was made when calculating the transaction amount. 
+– You altered the transaction amount after the transaction was completed without the 
+consent of the cardholder."
+chunk_049,visa-dispute-guidelines.pdf,June 2024,3,12.5,Incorrect Amount,What caused the dispute?,37,34,"An incorrect amount was keyed in to complete the transaction or the handwritten amount 
+differs from printed amount."
+chunk_050,visa-dispute-guidelines.pdf,June 2024,3,12.5,Incorrect Amount,How should I respond?,37,34,"– Transaction amount is correct. 
+Provide supporting documentation (i.e., copy of the transaction receipt). 
+– The transaction amount used to settle the transaction was different from the actual 
+amount due. 
+Accept the dispute. 
+– Credit or reversal has already been processed for the transaction. 
+Provide documentation of the credit or reversal that includes the amount and the date it 
+was processed. 
+– The cardholder no longer disputes the transaction. 
+Provide a letter or email from the cardholder that states they no longer dispute the 
+transaction."
+chunk_051,visa-dispute-guidelines.pdf,June 2024,3,12.5,Incorrect Amount,How to avoid this dispute in the future,37,34,"– Train your sales staff on the proper procedures for processing transactions ensuring 
+correct details are keyed in the terminal before submitting the transaction, including the 
+recommendation that all transactions be swiped, or chip read. 
+33
+
+3 Dispute Conditions"
+chunk_052,visa-dispute-guidelines.pdf,June 2024,3,12.6,Duplicate Processing,Why did I get this notification?,38,35,"The cardholder claims that a single transaction was processed more than once using the same 
+Payment Credential on the same Transaction date, and for the same Transaction amount."
+chunk_053,visa-dispute-guidelines.pdf,June 2024,3,12.6,Duplicate Processing,What caused the dispute?,38,35,"There are four common causes for this type of dispute: 
+– The same transaction details were entered into the terminal more than once. 
+– The same transaction capture batch was electronically sent to your card processor more 
+than once. 
+– Both the merchant copy and the acquirer copy of the transaction receipt were submitted/ 
+deposited. 
+– Two transaction receipts were created for the same purchase."
+chunk_054,visa-dispute-guidelines.pdf,June 2024,3,12.6,Duplicate Processing,How should I respond?,38,35,"– The charges represent two separate transactions/purchases. 
+Provide information and documentation to show the two transactions are separate. 
+– Cardholder made only one transaction confirmed by your records, but it was settled 
+more than once. 
+Accept the dispute. 
+– Credit or reversal has already been processed for the transaction. 
+Provide documentation of the credit or reversal that includes the amount and the date it 
+was processed. 
+– The cardholder no longer disputes the transaction. 
+Provide a letter or email from the cardholder that shows they no longer dispute the 
+transaction."
+chunk_055,visa-dispute-guidelines.pdf,June 2024,3,12.6,Duplicate Processing,How to avoid this dispute in the future,38,35,"– Avoid entering/processing a transaction more than once. If you do enter a transaction twice, 
+reverse the duplicate transaction. 
+– Train your sales staff on the proper procedures for processing transactions, including how to 
+reverse duplicate transactions. 
+– Review transaction receipts before you deposit them. 
+34
+
+3 Dispute Conditions"
+chunk_056,visa-dispute-guidelines.pdf,June 2024,3,12.6,Paid by Other Means,Why did I get this notification?,39,36,"The cardholder claims that they paid for the merchandise or service by other means (i.e., cash, 
+check, other card, the same card with discrepancies on the date and/or amount, etc.)."
+chunk_057,visa-dispute-guidelines.pdf,June 2024,3,12.6,Paid by Other Means,What caused the dispute?,39,36,"The cardholder initially gave you a Visa card as payment, but then decided to use cash, check, 
+or another card after you completed the transaction."
+chunk_058,visa-dispute-guidelines.pdf,June 2024,3,12.6,Paid by Other Means,How should I respond?,39,36,"– Visa card was the only form of payment used. 
+Provide the sales records or other documentation that shows no other form of payment 
+was used. 
+– The Visa card and other form of payment were for different merchandise or services. 
+Provide the sales records or other documentation to show that both payments were for 
+different merchandises or services 
+– The charges represent two separate transactions/purchases. 
+Provide documentation to show the two transactions represent the purchase of separate 
+merchandise or services. 
+– The transaction was paid using another form of payment. 
+Accept the dispute. 
+– Credit or reversal has already been processed for the transaction. 
+Provide documentation of the credit or reversal that includes the amount and the date it 
+was processed. 
+– The cardholder no longer disputes the transaction. 
+Provide a letter or email from the cardholder that states they no longer dispute the 
+transaction."
+chunk_059,visa-dispute-guidelines.pdf,June 2024,3,12.6,Paid by Other Means,How to avoid this dispute in the future,39,36,"– If a customer asks to use another form of payment after you have processed the Visa card 
+transaction, reverse the Visa card transaction. 
+– Train your sales staff on the proper procedures for handling reversals. 
+35
+
+3 Dispute Conditions
+36"
+chunk_060,visa-dispute-guidelines.pdf,June 2024,3,12.7,Invalid Data,Why did I get this notification?,40,37,An authorization was obtained using invalid or incorrect data.
+chunk_061,visa-dispute-guidelines.pdf,June 2024,3,12.7,Invalid Data,What caused the dispute?,40,37,"The common causes for this type of dispute: 
+– An authorization request contained an incorrect transaction date, MCC, merchant or 
+transaction type indicator, Country or State Code, Special Condition Indicator, or other 
+required field."
+chunk_062,visa-dispute-guidelines.pdf,June 2024,3,12.7,Invalid Data,How should I respond?,40,37,"– The authorization request submitted with the correct/valid data. 
+Provide the sales records or other documentation to support that the transaction was 
+authorized with valid data. 
+– The authorization was obtained using invalid data. 
+Accept the dispute. 
+– Credit or reversal has already been processed for the transaction. 
+Provide documentation of the credit or reversal that includes the amount and the date it 
+was processed. 
+– The cardholder no longer disputes the transaction. 
+Provide a letter or email from the cardholder that states they no longer dispute the 
+transaction."
+chunk_063,visa-dispute-guidelines.pdf,June 2024,3,12.7,Invalid Data,How to avoid this dispute in the future,40,37,"– Ensure that all transactions are processed with the correct data and your account is correctly 
+set up with the proper information.
+
+3 Dispute Conditions"
+chunk_064,visa-dispute-guidelines.pdf,June 2024,3,13.1,Merchandise/Services Not Received,Why did I get this notification?,41,38,"The cardholder claims that merchandise or services that they ordered were not received by 
+the expected date (or merchandise was unavailable for pick-up)."
+chunk_065,visa-dispute-guidelines.pdf,June 2024,3,13.1,Merchandise/Services Not Received,What caused the dispute?,41,38,"There are several common causes for this type of dispute: 
+– The merchandise was not delivered and received by the agreed-upon delivery date, time or 
+to the agreed upon location. 
+– The merchandise was not available for pick-up at the agreed location or by agreed date. 
+– The services were not available and/or not provided to the customer."
+chunk_066,visa-dispute-guidelines.pdf,June 2024,3,13.1,Merchandise/Services Not Received,How should I respond?,41,38,"– The merchandise has been delivered /picked up by the agreed-upon date or agreed 
+upon location. 
+Provide documentation to prove that the cardholder or authorized person received the 
+merchandise or services as agreed. 
+– Specified delivery date has not yet passed. 
+Provide documentation to support the expected delivery date. 
+– Cardholder cancelled prior to expected date. 
+Provide documentation to support you were able to provide merchandise or service and 
+that the cardholder cancelled prior to the delivery date. 
+– Transaction represents a partial payment with balance due. 
+Provide documentation to support additional payments due. 
+– Airline transaction when the Cardholder is disputing the flight did not take place. 
+Provide documentation to prove that the flight departed. 
+– Transaction represents future services. 
+Provide documentation to show that merchant did not cancel and services were available. 
+– Effective for Dispute Response on or after 19 October 2024, For Transactions involving 
+the acquisition of non-fiat currency or non-fungible token(s), the non-fiat currency or 
+nonfungible tokens (NFT) was successfully delivered to the destination wallet address 
+supplied by the cardholder at the time of the transaction. 
+Provide documentation to show one or more of the following: 
+• Destination wallet address 
+•
+ Blockchain Transaction 
+hash, which 
+must be searchable/traceable on an open-source 
+website 
+• Prior approved similar transactions using the same Cardholder Account Number 
+37
+
+3 Dispute Conditions
+
+– The merchandise or service was not delivered/provided to the customer. 
+Accept the dispute. 
+– Credit or reversal has already been processed for the transaction. 
+Provide documentation of the credit or reversal that includes the amount and the date it 
+was processed. 
+– The cardholder no longer disputes the transaction. 
+Provide a letter or email from the cardholder that states they no longer dispute the 
+transaction."
+chunk_067,visa-dispute-guidelines.pdf,June 2024,3,13.1,Merchandise/Services Not Received,How to avoid this dispute in the future,42,39,"– If merchandise is going to be delayed, notify the customer in writing of the delay and 
+expected delivery date. Allow the customer to cancel if they choose to. 
+– If you are shipping merchandise without requesting proof of delivery, consider the costs and 
+benefits of doing so compared to the value of the merchandise you ship. Proof of delivery or 
+pick-up, such as certified mail or a carrier’s certification that the merchandise was delivered 
+to the correct address or picked up and signed for by the cardholder, will allow you to return 
+the dispute if the customer claims the merchandise was not received. 
+– You may consider purchasing shipping insurance as additional protection for possible lost, 
+stolen and/or damaged in transit. 
+38
+
+3 Dispute Conditions"
+chunk_068,visa-dispute-guidelines.pdf,June 2024,3,13.2,Cancelled Recurring Transaction,Why did I get this notification?,43,40,"The Cardholder withdrew permission to charge the account for a recurring transaction or you 
+or your card processor received notification that, before the Transaction was processed, that 
+the cardholder’s account was closed.
+4
+3"
+chunk_069,visa-dispute-guidelines.pdf,June 2024,3,13.2,Cancelled Recurring Transaction,What caused the dispute?,43,40,"There are several common causes for this type of dispute such as follows:
+– The cardholder withdrew permission to charge the account.
+– The cardholder cancelled the card account.
+– The cardholder’s bank cancelled the card account.
+– The transaction was processed after you received notice that the cardholder’s account was 
+closed."
+chunk_070,visa-dispute-guidelines.pdf,June 2024,3,13.2,Cancelled Recurring Transaction,How should I respond?,43,40,"– Transaction was cancelled, but services were used. 
+Effective for Disputes processed on or after 19 October 2024, provide proof the cardholder 
+used services after the withdrawal of permission to bill date and prior to the Dispute 
+Processing Date.
+– The cardholder withdrew their permission to charge the account for a recurring transaction 
+and you have not issued a credit. 
+Accept the dispute.
+– Credit or reversal has already been processed for the transaction. 
+Provide documentation of the credit or reversal that includes the amount and the date it 
+was processed.
+– The cardholder no longer disputes the transaction. 
+Provide a letter or email from the cardholder stating that they no longer dispute the 
+transaction."
+chunk_071,visa-dispute-guidelines.pdf,June 2024,3,13.2,Cancelled Recurring Transaction,How to avoid this dispute in the future,43,40,"– Train your sales and customer service staff on the proper procedures for processing 
+recurring transactions, as these transactions are particularly susceptible to cardholder 
+disputes.
+– Always respond in a timely manner to customer requests relating to the renewal or 
+cancellation of recurring transactions. Check customer logs daily for cancellation or non-
+renewal requests; take appropriate action to comply with them in a timely manner. 
+– Send a notification to the customer stating that his or her recurring payment account has 
+been closed. If any balance amount is owed for services already utilized, request another 
+form of payment from the cardholder.
+3 Includes in the Europe region, installment transaction.
+4 Includes in the Europe region, withdrawn facilities or deceased cardholder.
+39
+
+3 Dispute Conditions"
+chunk_072,visa-dispute-guidelines.pdf,June 2024,3,13.3,Not as Described or Defective Merchandise/Services,Why did I get this notification?,44,41,"The cardholder is claiming that the merchandise or services were one or more of these: 
+– Merchandise or services did not match the description on the transaction receipt or other 
+documentation presented at the time of purchase. 
+– Merchandise or services are not the same as your verbal description (for a telephone 
+transaction
+5). 
+– The merchandise was received damaged or defective. 
+– For travel agency merchant using a Visa Commercial Card Virtual Account that has failed to 
+honor the contractual agreement or the services provided by the travel agency merchant to 
+the Virtual Account holder were not as described in the contractual agreement. 
+– The cardholder disputes the quality of the merchandise or services."
+chunk_073,visa-dispute-guidelines.pdf,June 2024,3,13.3,Not as Described or Defective Merchandise/Services,What caused the dispute?,44,41,"There are several common causes for this type of dispute: 
+– You sent the wrong merchandise to the cardholder. 
+– You sent the merchandise, but it was damaged during shipment. 
+– You inaccurately described the merchandise or services at the time of purchase. 
+– You did not perform the services as described."
+chunk_074,visa-dispute-guidelines.pdf,June 2024,3,13.3,Not as Described or Defective Merchandise/Services,How should I respond?,44,41,"– The merchandise or services received by the customer were as described. 
+Provide specific information or documentation (invoice, contract, etc.) to refute the 
+cardholder’s claims. Quality disputes are where the customer does not agree with the 
+condition of merchandise or service received (e.g., a car repair situation or quality of a hotel 
+room). There may be instances where you will need to obtain a neutral third-party opinion 
+to help corroborate your claim against the cardholder. Provide as much specific information 
+and documentation as possible to refute the cardholder’s claims. It is recommended that 
+you address each point that the cardholder has made. 
+– Returned merchandise was not received or services were not cancelled. 
+Advise that you have not received the returned merchandise and the cardholder never 
+attempted to return or cardholder has not cancelled services. However, double check your 
+incoming shipping records to verify prior to response. 
+5 Only applies to US Domestic, Canada Domestic and Interregional between Canada and US Regions. 
+40
+
+3 Dispute Conditions
+
+– The merchandise was replaced or repaired. 
+Provide evidence of the following: 
+– The cardholder agreed to repair or to a replacement 
+– Repair or replacement was received 
+– The repair or replacement has since not been disputed 
+– Credit or reversal has already been processed for the transaction. 
+Provide documentation of the credit or reversal that includes the amount and the date it 
+was processed. 
+– The cardholder no longer disputes the transaction. 
+Provide a letter or email from the cardholder that states they no longer dispute the 
+transaction. 
+– Effective for Dispute Responses processed on or after 19 October 2024, For Transactions 
+involving the acquisition of non-fiat currency or purchase of non-fungible token(s) 
+Provide evidence to prove the non-fiat currency or non-fungible tokens (NFT) received by the 
+Cardholder matches the non-fiat currency or non-fungible token(s) that was described at the 
+time of the Transaction."
+chunk_075,visa-dispute-guidelines.pdf,June 2024,3,13.3,Not as Described or Defective Merchandise/Services,How to avoid this dispute in the future,45,42,"– Ensure that the description of merchandise or services shown in advertisements, online, and 
+transaction receipts, or used in telephone order-taking scripts are accurate, complete, and 
+not misleading. 
+– Never refer the cardholder to the manufacturer in lieu of attempting to resolve the issue. 
+The merchant of record is considered the liable party/point of contact for resolution. 
+– Merchants should keep in mind that their return policy has no bearing on disputes that fall 
+under this dispute condition. 
+41
+
+3 Dispute Conditions"
+chunk_076,visa-dispute-guidelines.pdf,June 2024,3,13.4,Counterfeit Merchandise,Why did I get this notification?,46,43,"The merchandise was identified as counterfeit by the owner of the intellectual property or 
+authorized representative, a customs agency, law enforcement agency, other governmental 
+agency, or a neutral third-party expert."
+chunk_077,visa-dispute-guidelines.pdf,June 2024,3,13.4,Counterfeit Merchandise,What caused the dispute?,46,43,Merchandise received by the customer has been identified as counterfeit.
+chunk_078,visa-dispute-guidelines.pdf,June 2024,3,13.4,Counterfeit Merchandise,How should I respond?,46,43,"– The merchandise was authentic/genuine and not counterfeit. 
+Provide specific information and invoices to refute the cardholder’s claims. 
+– The cardholder’s claim/complaint is valid. 
+Accept the dispute. 
+– Credit or reversal has already been processed for the transaction. 
+Provide documentation of the credit or reversal that includes the amount and the date it 
+was processed. 
+– The cardholder no longer disputes the transaction. 
+Provide a letter or email from the cardholder stating that they no longer dispute the 
+transaction."
+chunk_079,visa-dispute-guidelines.pdf,June 2024,3,13.4,Counterfeit Merchandise,How to avoid this dispute in the future,46,43,"– Ensure that the goods are genuine. 
+– Merchants should keep in mind that their return policy has no bearing on disputes that 
+fall under this dispute condition and that the cardholder is also not required to return the 
+merchandise. 
+42
+
+3 Dispute Conditions"
+chunk_080,visa-dispute-guidelines.pdf,June 2024,3,13.5,Misrepresentation,Why did I get this notification?,47,44,The cardholder is claiming that the terms of sale were misrepresented.
+chunk_081,visa-dispute-guidelines.pdf,June 2024,3,13.5,Misrepresentation,What caused the dispute?,47,44,"– The terms of sale were misrepresented for a transaction at a merchant that is any of the 
+following: 
+– Timeshare Reseller or recovers a timeshare reseller fee. 
+– Recovers, consolidates, reduces, or amends existing financial goods or services, 
+including debt consolidation, credit repair/counseling, mortgage repair/modification/ 
+counselling, foreclosure relief services and credit card interest rate reduction services. 
+– Technical Services/Support or computer software being sold using inaccurate ads or 
+that contains malicious software downloads. 
+– Suggests that an income will be generated or recommends that the cardholder 
+purchases additional items to generate more income. 
+– Advises the cardholder that funds can be recovered. 
+– Outbound Telemarking. 
+– Investment Products when merchant refuses to allow cardholder to withdraw available 
+balance (e.g. binary options). 
+– Trial Periods/One-off purchase where the cardholder was not clearly advised of any further 
+billing."
+chunk_082,visa-dispute-guidelines.pdf,June 2024,3,13.5,Misrepresentation,How should I respond?,47,44,"– The merchandise or services were not misrepresented. 
+Provide documentation to prove the terms of sale were not misrepresented or for 
+investments evidence that there are no funds to withdraw. 
+– Cardholder’s claim is valid, and the merchandise or services provided were not as intended. 
+Accept the dispute. 
+– Cardholder agreed to future transactions. 
+Transaction relating to Card-Absent Environment where merchandise or digital goods have 
+been purchased through trial period, promotional period or introductory offer or as a one-
+off purchase, provide documentation to prove the cardholder expressly agreed to future 
+transactions and that you notified the cardholder of future transactions at least 7 days 
+before transaction date 
+– Credit or reversal has already been processed for the transaction. 
+Provide documentation of the credit or reversal includes the amount and the date it was 
+processed. 
+– The cardholder no longer disputes the transaction. 
+Provide a letter or email from the cardholder that states they no longer dispute the 
+transaction. 
+43
+
+3 Dispute Conditions"
+chunk_083,visa-dispute-guidelines.pdf,June 2024,3,13.5,Misrepresentation,How to avoid this dispute in the future,48,45,"– Ensure that the description of merchandise or services shown in advertisements, online, and 
+transaction receipts, or used in telephone order-taking scripts are accurate, complete, and 
+not misleading. 
+– Merchants should keep in mind that their return policy has no bearing on disputes that fall 
+under this dispute condition. 
+44
+
+3 Dispute Conditions"
+chunk_084,visa-dispute-guidelines.pdf,June 2024,3,13.6,Credit Not Processed,Why did I get this notification?,49,46,"The cardholder is claiming that they received a credit or voided transaction receipt that has not 
+been processed."
+chunk_085,visa-dispute-guidelines.pdf,June 2024,3,13.6,Credit Not Processed,What caused the dispute?,49,46,"The most common causes for this dispute are that you: 
+– Did not issue a credit. 
+– Issued the credit but did not deposit the credit with your acquirer in time for it to appear on 
+the cardholder’s next statement. 
+– Have a transaction receipt that should have been voided/cancelled but was not processed."
+chunk_086,visa-dispute-guidelines.pdf,June 2024,3,13.6,Credit Not Processed,How should I respond?,49,46,"– The sale is valid, and credit is not due. 
+Provide documentation and refute the validity of the documentation supplied by the 
+cardholder’s bank. 
+– The transaction is due for refund but has not yet been processed. 
+Accept the dispute. 
+– Credit or reversal has already been processed for the transaction. 
+Provide documentation of the credit or reversal that includes the amount and the date it 
+was processed. 
+– The cardholder no longer disputes the transaction. 
+Provide a letter or email from the cardholder that states they no longer dispute the 
+transaction."
+chunk_087,visa-dispute-guidelines.pdf,June 2024,3,13.6,Credit Not Processed,How to avoid this dispute in the future,49,46,"– Ensure that credits/reversals are processed promptly. 
+45
+
+3 Dispute Conditions"
+chunk_088,visa-dispute-guidelines.pdf,June 2024,3,13.7,Cancelled Merchandise/Services,Why did I get this notification?,50,47,"The cardholder is claiming that they returned merchandise or cancelled services, but the credit 
+has not appeared on the cardholder’s Visa statement."
+chunk_089,visa-dispute-guidelines.pdf,June 2024,3,13.7,Cancelled Merchandise/Services,What caused the dispute?,50,47,"The most common causes for this dispute are: 
+– No credit has been issued/processed for the cancelled services or merchandise that was 
+cancelled or returned. 
+– No credit has been issued/processed due to returns not being accepted, however return 
+policy was not properly disclosed to the customer. 
+– A Timeshare cancellation was not processed within 14 days of the contract or receipt date. 
+– A guaranteed reservation was cancelled and the customer was charged a No-Show Fee."
+chunk_090,visa-dispute-guidelines.pdf,June 2024,3,13.7,Cancelled Merchandise/Services,How should I respond?,50,47,"– Return, refund, and cancellation policies were properly disclosed. 
+Provide documentation to support that your limited return or cancellation policy was 
+properly disclosed and agreed to at the time of sale. 
+– The cardholder did not cancel according to your disclosed policy. 
+Provide documentation to support that your limited return or cancellation policy was 
+properly disclosed and how the cardholder did not cancel according to the disclosed policy. 
+– Cardholder continued to use services or merchandise was not returned. 
+Provide evidence to support. 
+– The cardholder’s complaint is valid. 
+Accept the dispute. 
+– Credit or reversal has already been processed for the transaction. 
+Provide documentation of the credit that includes the amount and the date it was 
+processed. 
+– The cardholder no longer disputes the transaction. 
+Provide a letter or email from the cardholder that states they no longer dispute the 
+transaction. 
+46
+
+3 Dispute Conditions
+ 47"
+chunk_091,visa-dispute-guidelines.pdf,June 2024,3,13.7,Cancelled Merchandise/Services,How to avoid this dispute in the future,51,48,"– Before asking the cardholder to sign a transaction receipt or separate contract, be sure 
+your establishment’s return/cancellation policy is clearly disclosed near the customer 
+signature line on the transaction receipts or on the separate contract that can be tied to 
+the transaction. If the disclosure is on the back of the receipt or separate contract, the 
+cardholder must sign the front and initial the back by the disclosure statement. 
+– If your business has a limited return policy or does not allow returns at all, the words “no 
+returns” or similar words must be on all copies of the transaction receipts and supplied to 
+the cardholder for agreement before the transaction is completed with a signature or pin. 
+– For Internet transactions, the website must communicate its refund policy to the cardholder 
+and require the cardholder to select either a “click to accept” or other acknowledgement 
+button or check box or location for electronic signature to acknowledge the policy. The 
+terms and conditions of the purchase must be displayed on the same screen view as the 
+checkout screen used to present the total purchase amount or within the sequence of 
+website pages
+6 the cardholder accesses during the checkout process, or on the checkout 
+screen near the submit or click to accept button. 
+6 The disclosure may be a link to a separate page if that link forms part of the “click to accept” acknowledgement and refers 
+to the return, refund or cancellation policy.
+
+3 Dispute Conditions"
+chunk_092,visa-dispute-guidelines.pdf,June 2024,3,13.8,Original Credit Transaction Not Accepted,Why did I get this notification?,52,49,The original credit was not accepted.
+chunk_093,visa-dispute-guidelines.pdf,June 2024,3,13.8,Original Credit Transaction Not Accepted,What caused the dispute?,52,49,"Either the cardholder does not accept the credit, or the issuer does not allow Original Credit 
+Transactions (OCT’s) on certain types of cards due to local law."
+chunk_094,visa-dispute-guidelines.pdf,June 2024,3,13.8,Original Credit Transaction Not Accepted,How should I respond?,52,49,"– The original credit transaction was reversed. 
+Supply documentation or information to support. 
+– The dispute is valid. 
+Accept the dispute. 
+– The cardholder no longer disputes the transaction. 
+Provide a letter or email from the cardholder that states they no longer dispute the 
+transaction. 
+48"
+chunk_095,visa-dispute-guidelines.pdf,June 2024,3,13.9,Non-Receipt of Cash at an ATM,Why did I get this notification?,,,"The cardholder is claiming that they participated in the transaction, but did not receive cash or 
+received a partial amount at the ATM."
+chunk_096,visa-dispute-guidelines.pdf,June 2024,3,13.9,Non-Receipt of Cash at an ATM,What caused the dispute?,,,Cardholder did not receive the full or partial cash from an ATM withdrawal.
+chunk_097,visa-dispute-guidelines.pdf,June 2024,3,13.9,Non-Receipt of Cash at an ATM,How should I respond?,,,"– The ATM did dispense the correct value of cash. 
+Provide your card processor with a copy of the ATM cash disbursement transaction record 
+containing at least the following: 
+– Payment Credential 
+– Transaction time or sequential number that identifies the individual transactions 
+– Indicator that confirms the ATM cash disbursement was successful 
+– The cardholder’s complaint is valid. 
+Accept the dispute. 
+– Credit or reversal has already been processed for the transaction. 
+Provide documentation of the credit or reversal that includes the amount and the date it was 
+processed. 
+– The cardholder no longer disputes the transaction. 
+Provide a letter or email from the cardholder that states they no longer dispute the 
+transaction."
+chunk_098,visa-dispute-guidelines.pdf,June 2024,3,13.9,Non-Receipt of Cash at an ATM,How to avoid this dispute in the future,,,"– Reconcile ATMs in a timely manner and adjust out of balance machines accordingly. 
+– If you notice a discrepancy, process a credit/reversal. 
+49"
+chunk_099,visa-dispute-guidelines.pdf,June 2024,4,,Providing Compelling Evidence,Compelling Evidence and Merchant Rights,53,50,"4
+Providing Compelling 
+Evidence 
+What’s Covered 
+– Compelling Evidence and Merchant dispute response rights 
+– Issuer Compelling Evidence Requirements 
+Compelling evidence is information or documentation provided by a Merchant 
+or an Acquirer that attempts to prove that the cardholder participated in the 
+transaction, received the goods or services, or benefitted from the transaction as 
+specified in the table under Compelling Evidence and Merchant Rights. Compelling 
+Evidence does not mandate that Visa, the Issuer, or any other entity conclude that 
+the Cardholder participated in the Transaction, received goods or services, agreed 
+to Dynamic Currency Conversion, or otherwise benefited from the Transaction. 
+This section explains the pre-arbitration attempt processing requirements related 
+to a merchant providing compelling evidence. 50"
+chunk_100,visa-dispute-guidelines.pdf,June 2024,4,,Providing Compelling Evidence,Compelling Evidence and Merchant Rights,54,51,"4 Providing Compelling Evidence
+ 
+Compelling Evidence and Merchant Rights 
+Merchants will have a right to provide compelling evidence for the following dispute conditions: 
+– Condition 10.1 – EMV Liability Shift Counterfeit Fraud
+– Condition 10.3 – Other Fraud – Card-Present Environment
+– Condition 10.4 – Other Fraud – Card-Absent Environment
+Item 
+# Allowable Compelling Evidence Applicable Dispute Condition 
+10.1 
+EMV Liability Shift 
+Counterfeit Fraud 
+10.3 
+Other Fraud – 
+Card-Present 
+Environment 
+10.4 
+Other Fraud 
+– Card-Absent
+Environment
+1 Photographic or email evidence to prove 
+a link between the person receiving 
+the merchandise or services and the 
+Cardholder, or to prove that the Cardholder 
+disputing the Transaction is in possession 
+of the merchandise and/or is using the 
+merchandise or services. 
+X 
+2 For a Card-Absent Environment Transaction 
+in which the merchandise is collected from 
+the Merchant location, any of the following: 
+ – Cardholder signature on the pick-up form
+ – Copy of identification presented by the 
+Cardholder7
+ – Details of identification presented by the 
+Cardholder
+X 
+3 For a Card-Absent Environment Transaction 
+in which the merchandise is delivered, 
+evidence that the item was delivered to 
+the same physical address for which the 
+Merchant received an AVS match of Y or M. 
+A signature is not required as evidence of 
+delivery. 
+X 
+4 For an Electronic Commerce Transaction 
+representing the sale of digital goods 
+downloaded from a Merchant’s website or 
+application, description of the merchandise 
+or services successfully downloaded, the date 
+and time such merchandise or services were 
+downloaded, and 2 or more of the following: 
+ – Purchaser’s IP address and the device 
+geographical location at the date and time 
+of the Transaction
+ – Device ID number and name of device (if 
+available)
+X 
+ 51 
+7 A Merchant must not require positive identification as a condition of Card acceptance, unless it is required or permitted 
+elsewhere in the Visa Rules. 
+n/a n/a
+n/a n/a
+n/a n/a
+n/a n/a"
+chunk_101,visa-dispute-guidelines.pdf,June 2024,4,,Providing Compelling Evidence,Compelling Evidence and Merchant Rights,55,52,"4 Providing Compelling Evidence
+ 
+7 A Merchant must not require positive identification as a condition of Card acceptance, unless it is required or permitted 
+elsewhere in the Visa Rules. 
+52 
+Item 
+# Allowable Compelling Evidence Applicable Dispute Condition 
+10.1 
+EMV Liability Shift 
+Counterfeit Fraud 
+10.3 
+Other Fraud – 
+Card-Present 
+Environment 
+10.4 
+Other Fraud 
+– Card-Absent
+Environment
+4 – 
+– 
+– 
+– 
+Purchaser’s name and email address 
+linked to the customer profile held by the 
+Merchant 
+Evidence that the profile set up by the 
+purchaser on the Merchant’s website or 
+application was accessed by the purchaser 
+and has been successfully verified by the 
+Merchant before the Transaction Date 
+Evidence that the Merchant’s website 
+or application was accessed by the 
+Cardholder for merchandise or services 
+on or after the Transaction Date 
+Evidence that the same device and Card 
+used in the disputed Transaction were 
+used in any previous Transaction that was 
+not disputed 
+5 For a Transaction in which merchandise was 
+delivered to a business address, evidence 
+that the merchandise was delivered and that, 
+at the time of delivery, the Cardholder was 
+working for the company at that address. 
+A signature is not required as evidence of 
+delivery. 
+X 
+6 For a Mail/Phone Order Transaction, a signed 
+order form. 
+X 
+7 For a passenger transport Transaction, 
+evidence that the services were provided and 
+any of the following: 
+– Evidence that the ticket was received at 
+the Cardholder’s billing address
+– Evidence that the ticket or boarding pass 
+was scanned at the gate
+– Details of frequent flyer miles relating 
+to the disputed Transaction that were 
+earned or redeemed, including address 
+and telephone number, that establish a 
+link to the Cardholder
+– Evidence of any of the following additional 
+Transactions related to the original 
+Transaction: purchase of seat upgrades, 
+payment for extra baggage, or purchases 
+made on board the passenger transport
+X 
+n/a n/a
+n/a n/a
+n/a n/a"
+chunk_102,visa-dispute-guidelines.pdf,June 2024,4,,Providing Compelling Evidence,Compelling Evidence and Merchant Rights,56,53,"4 Providing Compelling Evidence
+ 
+ 7 A Merchant must not require positive identification as a condition of Card acceptance, unless it is required or permitted 
+elsewhere in the Visa Rules. 
+53 
+Item 
+# Allowable Compelling Evidence Applicable Dispute Condition 
+10.1 
+EMV Liability Shift 
+Counterfeit Fraud 
+10.3 
+Other Fraud – 
+Card-Present 
+Environment 
+10.4 
+Other Fraud 
+– Card-Absent
+Environment
+8 For a T&E Transaction, evidence that the 
+services were provided and either: 
+ – Details of loyalty program rewards earned 
+and/or redeemed including address and 
+telephone number that establish a link to 
+the Cardholder
+ – Evidence that an additional Transaction 
+or Transactions related to the original 
+Transaction, such as the purchase of 
+T&E service upgrades or subsequent 
+purchases made throughout the T&E 
+service period, were not disputed
+X 
+9 For a virtual Card Transaction at a Lodging 
+Merchant, evidence of the Issuer’s payment 
+instruction sent through Visa Payables 
+Automation, containing all of the following: 
+ – Issuer statement confirming approved use 
+of the Card at the Lodging Merchant
+ – Payment Credential
+ – Guest name
+ – Name of the company (requestor) and 
+either their phone number, fax number, 
+or email address
+X 
+10 For a Card-Absent Environment Transaction 
+or effective for pre-Arbitration attempts 
+processed on or after 19 October 2024, an 
+Original Credit Transaction (OCT), evidence 
+that 3 or more of the following had been 
+used in an undisputed Transaction: 
+ – Customer account/login ID
+ – Delivery address
+ – Device ID/device fingerprint
+ – Email address
+ – IP address
+ – Telephone number
+X 
+n/a n/a
+n/a n/a
+n/a n/a"
+chunk_103,visa-dispute-guidelines.pdf,June 2024,4,,Providing Compelling Evidence,Compelling Evidence and Merchant Rights,57,54,"4 Providing Compelling Evidence
+ 
+ 7 A Merchant must not require positive identification as a condition of Card acceptance, unless it is required or permitted 
+elsewhere in the Visa Rules. 
+54 
+Item 
+# Allowable Compelling Evidence Applicable Dispute Condition 
+10.1 
+EMV Liability Shift 
+Counterfeit Fraud 
+10.3 
+Other Fraud – 
+Card-Present 
+Environment 
+10.4 
+Other Fraud 
+– Card-Absent
+Environment
+11 Evidence that the Transaction was completed 
+by a member of the Cardholder’s household 
+or family 
+X 
+12 Evidence of one or more non-disputed 
+payments for the same merchandise or 
+service 
+X 
+13 For a Recurring Transaction, evidence of all of 
+the following: 
+– A legally binding contract held between 
+the Merchant and the Cardholder
+– The Cardholder is using the merchandise 
+or services
+– A previous Transaction that was not 
+disputed
+X 
+14 In the Europe Region: Evidence that the initial 
+Transaction to set up a wallet was completed 
+using Visa Secure but any subsequent 
+Transaction from the wallet that was not 
+completed using Visa Secure contained all 
+wallet-related Transaction data. 
+X 
+15 For a US Domestic Card-Present Environment 
+Transaction that is key-entered and did not 
+take place at a Chip-Reading Device, either: 
+– Evidence that the same Card used in the 
+disputed Transaction was used in any 
+previous or subsequent Transaction that 
+was not disputed
+– Copy of both:
+– Identification presented by the 
+Cardholder
+7 
+– Receipt, invoice, or contract with 
+information that links to the 
+identification presented by the 
+Cardholder 
+X X 
+n/a n/a
+n/a n/a
+n/a n/a
+n/a n/a
+n/a"
+chunk_104,visa-dispute-guidelines.pdf,June 2024,4,,Providing Compelling Evidence,Compelling Evidence and Merchant Rights,58,55,"4 Providing Compelling Evidence
+ 55 
+Item 
+# Allowable Compelling Evidence Applicable Dispute Condition 
+10.1 
+EMV Liability Shift 
+Counterfeit Fraud 
+10.3 
+Other Fraud – 
+Card-Present 
+Environment 
+10.4 
+Other Fraud 
+– Card-Absent
+Environment
+16 Effective 19 October 2024 For Transactions 
+for the acquisition of non-fiat currency (for 
+example: cryptocurrency) or purchase of a 
+nonfungible token (NFT), any of the following: 
+– Destination wallet address
+– Blockchain transaction hash, which must 
+be searchable/traceable on an open 
+source website
+– Prior approved similar transactions using 
+the same Payment Credential
+X 
+7 A Merchant must not require positive identification as a condition of Card acceptance, unless it is required or permitted 
+elsewhere in the Visa Rules. 
+n/a n/a"
+chunk_105,visa-dispute-guidelines.pdf,June 2024,4,,Providing Compelling Evidence,Issuer Compelling Evidence Requirements,59,56,"4 Providing Compelling Evidence
+ 
+Issuer Compelling Evidence Requirements 
+How Issuers Must Address Compelling Evidence 
+Transactions involving issuer and merchant in the Europe Regions, with the compelling 
+evidence rights for merchants comes the need to ensure issuers provide this information to 
+their cardholders. If compelling evidence is provided by the acquirer, issuers must contact 
+the cardholder to review the compelling evidence and provide information detailing how the 
+Compelling Evidence has been addressed by the Cardholder and why the cardholder continues 
+to dispute the transaction. 
+Transactions involving issuer or merchant in the Europe Region, issuer may pursue pre-
+arbitration by providing certification that they have contacted the cardholder to review the 
+Compelling Evidence and provide an explanation of why the cardholder continues to dispute 
+the transaction. 
+Transactions not involving issuer and merchant in the Europe Region, for dispute condition 
+10.4, the issuer may either: 
+– Certify that the cardholder name and address provided by the merchant do not match the 
+issuers records, if the Compelling Evidence contains both cardholder name and physical 
+address, they can. In this case, the merchant should accept the transaction or risk losing in 
+Arbitration. Issuers will be required to provide certification through Visa Resolve Online. 
+– Certify that it has contacted the Cardholder to review the Compelling Evidence, and provide 
+an explanation of why the Cardholder continues to dispute the Transaction. 
+56"

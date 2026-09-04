@@ -1,0 +1,1666 @@
+[
+  {
+    "id": "chunk_001",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "10.1",
+    "title": "EMV Liability Shift Counterfeit Fraud",
+    "subsection": "Why did I get this notification?",
+    "pdf_pages": [
+      24
+    ],
+    "printed_pages": [
+      21
+    ],
+    "content": "A cardholder is claiming that they did not authorize or participate in a transaction that you \nprocessed on a counterfeit card. \nThe cardholder’s bank determined all of the following has occurred: \n– The transaction was completed in a card-present environment with a card that was reported \nas counterfeit, \n– The transaction qualifies for the EMV liability shift, \n– The card is a chip card, and \n– Either of these things occurred: \n– The transaction did not take place at a chip-reading device (terminal entry capability \ncode was not 5). \n– The transaction was chip-initiated and, the transaction was authorized online, however, \nthe card processor did not transmit the full chip data to Visa in the authorization \nrequest."
+  },
+  {
+    "id": "chunk_002",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "10.1",
+    "title": "EMV Liability Shift Counterfeit Fraud",
+    "subsection": "What caused the dispute?",
+    "pdf_pages": [
+      24
+    ],
+    "printed_pages": [
+      21
+    ],
+    "content": "The cardholder has a chip card, but the transaction did not take place at a chip terminal or was \nnot chip read."
+  },
+  {
+    "id": "chunk_003",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "10.1",
+    "title": "EMV Liability Shift Counterfeit Fraud",
+    "subsection": "How should I respond?",
+    "pdf_pages": [
+      24
+    ],
+    "printed_pages": [
+      21
+    ],
+    "content": "– The transaction took place at a chip terminal. \nProvide documentation to support that the transaction was chip read and evidence that the \nfull chip data was transmitted. \n– The transaction did not take place at a chip terminal. \nAccept the dispute. \n– Credit or reversal has already been processed for the transaction. \nProvide documentation of the credit or reversal that includes the amount and the date it \nwas processed. \n– The cardholder no longer disputes the transaction. \nProvide a letter or email from the cardholder stating that they no longer dispute the \ntransaction."
+  },
+  {
+    "id": "chunk_004",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "10.1",
+    "title": "EMV Liability Shift Counterfeit Fraud",
+    "subsection": "How to avoid this dispute in the future",
+    "pdf_pages": [
+      24
+    ],
+    "printed_pages": [
+      21
+    ],
+    "content": "– Make sure your terminal is EMV-compliant and the correct Cardholder Verification Method \n(CVM) was obtained. For example: signature, PIN, etc. \n– Chip cards are properly processed. \n– Train your staff on the proper procedures for handling terminal issues. \n20\n\n3 Dispute Conditions"
+  },
+  {
+    "id": "chunk_005",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "10.2",
+    "title": "EMV Liability Shift Non-Counterfeit Fraud",
+    "subsection": "Why did I get this notification?",
+    "pdf_pages": [
+      25
+    ],
+    "printed_pages": [
+      22
+    ],
+    "content": "A cardholder is claiming that they did not authorize or participate in a transaction that you \nprocessed on a lost or stolen card, or on a card not received as issued (NRI). \nThe cardholder’s bank determined all of the following has occurred: \n– The transaction was completed in a card-present environment with a card that was reported \nlost, stolen, or card not received as issued (NRI) \n– The transaction qualifies for the EMV liability shift, \n– The card is a PIN-preferring chip card, and \n– One of these actions transpired: \n– The transaction did not take place at a chip-reading device. \n– A chip-initiated transaction took place at a chip-reading device that was not EMV \nPIN-compliant. \n– The online authorized transaction was chip-initiated without an online PIN and the card \nprocessor did not transmit the full chip data to Visa in the authorization request."
+  },
+  {
+    "id": "chunk_006",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "10.2",
+    "title": "EMV Liability Shift Non-Counterfeit Fraud",
+    "subsection": "What caused the dispute?",
+    "pdf_pages": [
+      25
+    ],
+    "printed_pages": [
+      22
+    ],
+    "content": "The most common cause of this dispute is that a PIN-preferring chip card was used either at a \nnon-EMV terminal or a chip transaction was initiated without full chip data."
+  },
+  {
+    "id": "chunk_007",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "10.2",
+    "title": "EMV Liability Shift Non-Counterfeit Fraud",
+    "subsection": "How should I respond?",
+    "pdf_pages": [
+      25
+    ],
+    "printed_pages": [
+      22
+    ],
+    "content": "– The transaction took place at an EMV PIN compliant terminal. \nProvide documentation to support that the transaction took place at an EMV PIN compliant \nterminal. \n– The transaction was not completed at an EMV PIN-compliant terminal. \nAccept the dispute. \n– Credit or reversal has already been processed for the transaction. \nProvide documentation of the credit or reversal that includes the amount and the date it \nwas processed. \n– The cardholder no longer disputes the transaction. \nProvide a letter or email from the cardholder that states they no longer dispute the \ntransaction."
+  },
+  {
+    "id": "chunk_008",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "10.2",
+    "title": "EMV Liability Shift Non-Counterfeit Fraud",
+    "subsection": "How to avoid this dispute in the future",
+    "pdf_pages": [
+      25
+    ],
+    "printed_pages": [
+      22
+    ],
+    "content": "– Make sure your terminal is EMV PIN-compliant and the correct Cardholder Verification \nMethod (CVM) was obtained. For example: signature, PIN, etc. \n– Chip cards are properly processed. \n– Train your staff on the proper procedures for handling terminal issues. \n21\n\n3 Dispute Conditions"
+  },
+  {
+    "id": "chunk_009",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "10.3",
+    "title": "Other Fraud – Card-Present Environment",
+    "subsection": "Why did I get this notification?",
+    "pdf_pages": [
+      26
+    ],
+    "printed_pages": [
+      23
+    ],
+    "content": "A cardholder is claiming that they did not authorize or participate in a key-entered transaction \nconducted in a card-present environment."
+  },
+  {
+    "id": "chunk_010",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "10.3",
+    "title": "Other Fraud – Card-Present Environment",
+    "subsection": "What caused the dispute?",
+    "pdf_pages": [
+      26
+    ],
+    "printed_pages": [
+      23
+    ],
+    "content": "The most common causes of this type of dispute are that you: \n– Did not ensure that the card was either swiped or that the chip was read. \n– Did not make a manual imprint of the card account information on the transaction receipt \nfor a key-entered transaction. \n– Completed a card-absent transaction but the transaction was not properly identified as an \ninternet or mail order/ phone order."
+  },
+  {
+    "id": "chunk_011",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "10.3",
+    "title": "Other Fraud – Card-Present Environment",
+    "subsection": "How should I respond?",
+    "pdf_pages": [
+      26
+    ],
+    "printed_pages": [
+      23
+    ],
+    "content": "– The card was swiped or chip-read and the transaction was authorized at the point of sale. \nProvide a copy of the authorization record as proof that the card’s magnetic stripe or chip \nwas read. \n– A manual imprint was obtained at the point of sale. (Does not apply to the Europe region) \nProvide a copy of the manual imprint. \n– The transaction was not swiped, chip-read, or manually imprinted. \nAccept the dispute. \n– Credit or reversal has already been processed for the transaction. \nProvide documentation of the credit or reversal that includes the amount and the date it \nwas processed. \n– The cardholder no longer disputes the transaction. \nProvide a letter or email from the cardholder that states they no longer dispute the \ntransaction."
+  },
+  {
+    "id": "chunk_012",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "10.3",
+    "title": "Other Fraud – Card-Present Environment",
+    "subsection": "How to avoid this dispute in the future",
+    "pdf_pages": [
+      26
+    ],
+    "printed_pages": [
+      23
+    ],
+    "content": "– Make sure all card-present transactions are either magnetic stripe-read or chip-read. \n– If you are unable to swipe or read the chip, make a manual imprint of the card. \n– Train your staff on the proper procedures for handling terminal issues. \n22\n\n3 Dispute Conditions"
+  },
+  {
+    "id": "chunk_013",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "10.4",
+    "title": "Other Fraud – Card-Absent Environment",
+    "subsection": "Why did I get this notification?",
+    "pdf_pages": [
+      27
+    ],
+    "printed_pages": [
+      24
+    ],
+    "content": "The cardholder is claiming that they did not authorize or participate in a transaction conducted \nin a card-absent environment (i.e., internet, mail-order, phone-order, etc.)."
+  },
+  {
+    "id": "chunk_014",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "10.4",
+    "title": "Other Fraud – Card-Absent Environment",
+    "subsection": "What caused the dispute?",
+    "pdf_pages": [
+      27
+    ],
+    "printed_pages": [
+      24
+    ],
+    "content": "The most common causes of this type of dispute are: \n– You processed a card-absent transaction from a person who was fraudulently using a \npayment credential. \n– The cardholder had their payment credential taken by fraudulent means. \n– Due to an unclear or confusing merchant name the cardholder believes the transaction to \nbe fraudulent"
+  },
+  {
+    "id": "chunk_015",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "10.4",
+    "title": "Other Fraud – Card-Absent Environment",
+    "subsection": "How should I respond?",
+    "pdf_pages": [
+      27
+    ],
+    "printed_pages": [
+      24
+    ],
+    "content": "– The transaction was authenticated with Visa Secure. \nAdvise your card processor that the transaction was Visa Secure-authenticated at time of \nauthorization. \n– The cardholder has two or more completed transactions (settled 120 calendar days prior \nto the dispute) which the issuer did not report as Fraud Activity to Visa, with at least two \ndata elements (device ID, device fingerprint, or the IP address) the same as the disputed \ntransaction. \n Provide the following details of the two previous transactions (settled between 120–365 \ncalendar days prior to the dispute processing date) and the disputed transaction: \n– Detailed description of merchandise or services purchased for the disputed \nTransactions and the 2 previous Transactions \n– Effective for Disputes Processed through 18 October 2024 Date/time the merchandise \nor services were provided \n– Effective for Disputes Processed on or after 19 October 2024 Date the merchandise or \nservices were provided \n– The same device ID, device fingerprint or the IP address and an additional one or more \ndata elements (Customer account/login ID, Full delivery address, device ID, device \nfingerprint, or the IP address) used in previous transactions and disputed transactions. \n– Documentation meeting the Compelling Evidence criteria is available. \nFor further details, refer to the Compelling Evidence Chart in Section 4: Providing Compelling \nEvidence. \n23\n\n3 Dispute Conditions\n \n– Credit or reversal has already been processed for the transaction. \nProvide documentation of the credit or reversal that includes the amount and the date it \nwas processed. \n– The cardholder no longer disputes the transaction. \nProvide a letter or email from the cardholder that states they no longer dispute the \ntransaction."
+  },
+  {
+    "id": "chunk_016",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "10.4",
+    "title": "Other Fraud – Card-Absent Environment",
+    "subsection": "How to avoid this dispute in the future",
+    "pdf_pages": [
+      28
+    ],
+    "printed_pages": [
+      25
+    ],
+    "content": ". \n– For card-absent transactions, consider using all available Visa tools such as Visa Secure, \nCVV2 and the Address Verification Service (AVS) to help reduce fraud. Contact your card \nprocessor for more information on these important risk-management tools. \n– Always request authorization for mail order, telephone order, internet, and recurring \ntransactions, regardless of the dollar amount. \n– Always make sure to properly identify card present and card absent transactions. \n24\n\n3 Dispute Conditions"
+  },
+  {
+    "id": "chunk_017",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "10.5",
+    "title": "Visa Fraud Monitoring Program",
+    "subsection": "Why did I get this notification?",
+    "pdf_pages": [
+      29
+    ],
+    "printed_pages": [
+      26
+    ],
+    "content": "Visa notified the cardholder’s bank that the Visa Fraud Monitoring Program (VFMP) identified \nthe transaction and the cardholder’s bank has not successfully disputed the transaction under \nanother dispute condition."
+  },
+  {
+    "id": "chunk_018",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "10.5",
+    "title": "Visa Fraud Monitoring Program",
+    "subsection": "What caused the dispute?",
+    "pdf_pages": [
+      29
+    ],
+    "printed_pages": [
+      26
+    ],
+    "content": "Your business has been identified with excessive fraud levels and the issuer was permitted to \ndispute the fraudulent transaction identified by VFMP."
+  },
+  {
+    "id": "chunk_019",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "10.5",
+    "title": "Visa Fraud Monitoring Program",
+    "subsection": "How should I respond?",
+    "pdf_pages": [
+      29
+    ],
+    "printed_pages": [
+      26
+    ],
+    "content": "– Issuer has initiated a prior dispute for the same transaction which you have already \naccepted. \nProvide details of the previously accepted dispute. \n– Credit or reversal has already been processed for the transaction. \nProvide documentation of the credit or reversal that includes the amount and the date it \nwas processed. \n– The cardholder no longer disputes the transaction. \nProvide a letter or email from the cardholder that states they no longer dispute the \ntransaction. \n25\n\n3 Dispute Conditions"
+  },
+  {
+    "id": "chunk_020",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "11.1",
+    "title": "Card Recovery Bulletin",
+    "subsection": "Why did I get this notification?",
+    "pdf_pages": [
+      30
+    ],
+    "printed_pages": [
+      27
+    ],
+    "content": "The cardholder’s bank determined that both of these occurred: \n– There was no authorization obtained on the transaction date, and \n– The payment credential was listed in the Card Recovery Bulletin for the Visa region in which \nyou are located."
+  },
+  {
+    "id": "chunk_021",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "11.1",
+    "title": "Card Recovery Bulletin",
+    "subsection": "What caused the dispute?",
+    "pdf_pages": [
+      30
+    ],
+    "printed_pages": [
+      27
+    ],
+    "content": "You failed to check the Card Recovery Bulletin (CRB) when required and completed the \ntransaction without authorization request."
+  },
+  {
+    "id": "chunk_022",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "11.1",
+    "title": "Card Recovery Bulletin",
+    "subsection": "How should I respond?",
+    "pdf_pages": [
+      30
+    ],
+    "printed_pages": [
+      27
+    ],
+    "content": "– The transaction was not authorized and the CRB was not checked. \nAccept the dispute. \n– Transaction qualifies for the EMV liability shift and had taken place at an EMV compliant \nterminal or contactless only acceptance device. \nProvide documentation to support that the transaction took place at an EMV compliant \nterminal. \n– Credit or reversal has already been processed for the transaction. \nProvide documentation of the credit or reversal that includes the amount and the date it \nwas processed."
+  },
+  {
+    "id": "chunk_023",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "11.1",
+    "title": "Card Recovery Bulletin",
+    "subsection": "How to avoid this dispute in the future",
+    "pdf_pages": [
+      30
+    ],
+    "printed_pages": [
+      27
+    ],
+    "content": "– Make sure required authorization was obtained in accordance with the Visa Rules before \ncompleting any transaction. \n– Always review the CRB when the transaction is below your floor limit. \n26\n\n3 Dispute Conditions"
+  },
+  {
+    "id": "chunk_024",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "11.2",
+    "title": "Declined Authorization",
+    "subsection": "Why did I get this notification?",
+    "pdf_pages": [
+      31
+    ],
+    "printed_pages": [
+      28
+    ],
+    "content": "A transaction was processed after receiving a Decline or Pickup response."
+  },
+  {
+    "id": "chunk_025",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "11.2",
+    "title": "Declined Authorization",
+    "subsection": "What caused the dispute?",
+    "pdf_pages": [
+      31
+    ],
+    "printed_pages": [
+      28
+    ],
+    "content": "The most common cause for this type of dispute is processing a transaction after a decline or \ncard pickup response, and you sent the transaction in your capture file without attempting \nanother authorization request (commonly referred to as forced posting)."
+  },
+  {
+    "id": "chunk_026",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "11.2",
+    "title": "Declined Authorization",
+    "subsection": "How should I respond?",
+    "pdf_pages": [
+      31
+    ],
+    "printed_pages": [
+      28
+    ],
+    "content": "– The transaction was authorized. \nHave your card processor provide evidence that the transaction was authorized online or \noffline via the chip. \n– The transaction was not authorized. \nAccept the dispute. \n– Credit or reversal has already been processed for the transaction. \nProvide documentation of the credit or reversal that includes the amount and the date it \nwas processed."
+  },
+  {
+    "id": "chunk_027",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "11.2",
+    "title": "Declined Authorization",
+    "subsection": "How to avoid this dispute in the future",
+    "pdf_pages": [
+      31
+    ],
+    "printed_pages": [
+      28
+    ],
+    "content": "– Make sure required authorization is obtained in accordance with the Visa Rules before \ncompleting any transaction. \n– Train your staff on the proper procedures for handling terminal issues. \n27\n\n3 Dispute Conditions"
+  },
+  {
+    "id": "chunk_028",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "11.3",
+    "title": "No Authorization/Late Presentment Effective for",
+    "subsection": "Why did I get this notification?",
+    "pdf_pages": [
+      32
+    ],
+    "printed_pages": [
+      29
+    ],
+    "content": "A transaction was processed without obtaining the required authorization, or the transaction \nwas not processed within the required transaction processing time limit."
+  },
+  {
+    "id": "chunk_029",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "11.3",
+    "title": "No Authorization/Late Presentment Effective for",
+    "subsection": "What caused the dispute?",
+    "pdf_pages": [
+      32
+    ],
+    "printed_pages": [
+      29
+    ],
+    "content": "There are four common causes for this type of dispute: \n– An authorization was required but was not obtained. \n– An authorization was obtained, but the transaction was processed for a higher amount. \n– An authorization was obtained, but the transaction was not processed in time. \n– An authorization was not required, and the transaction was not processed in time."
+  },
+  {
+    "id": "chunk_030",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "11.3",
+    "title": "No Authorization/Late Presentment Effective for",
+    "subsection": "How should I respond?",
+    "pdf_pages": [
+      32
+    ],
+    "printed_pages": [
+      29
+    ],
+    "content": "– The transaction was authorized: \nHave your card processor provide evidence that the transaction was authorized online or \noffline via the chip, or \nDocument to show that the transaction date initially used to process the transaction was \nincorrect and that the transaction was properly authorized. \n– The transaction was completed within the time limit. \nProvide a copy of the receipt or other evidence to disprove late presentment. \n– The transaction was not authorized, or the transaction was completed later than the \nspecified transaction processing time limit. \nAccept the dispute. \n– Credit or reversal has already been processed for the transaction. \nProvide documentation of the credit or reversal that includes the amount and the date it \nwas processed."
+  },
+  {
+    "id": "chunk_031",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "11.3",
+    "title": "No Authorization/Late Presentment Effective for",
+    "subsection": "How to avoid this dispute in the future",
+    "pdf_pages": [
+      32
+    ],
+    "printed_pages": [
+      29
+    ],
+    "content": "– Make sure required authorization is obtained in accordance with the Visa Rules before \ncompleting any transaction. \n– Train your staff on the proper procedures for handling terminal issues. \n– Send completed transactions to your card processor as soon as possible, preferably on the \nday of the sale or within the timeframe specified in your merchant agreement. \n28\n\n3 Dispute Conditions"
+  },
+  {
+    "id": "chunk_032",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.1",
+    "title": "Late Presentment Effective through 12 April 2024",
+    "subsection": "Why did I get this notification?",
+    "pdf_pages": [
+      33
+    ],
+    "printed_pages": [
+      30
+    ],
+    "content": "The transaction was completed past the required transaction processing time limits."
+  },
+  {
+    "id": "chunk_033",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.1",
+    "title": "Late Presentment Effective through 12 April 2024",
+    "subsection": "What caused the dispute?",
+    "pdf_pages": [
+      33
+    ],
+    "printed_pages": [
+      30
+    ],
+    "content": "The transaction was not sent to Visa within the timeframe required."
+  },
+  {
+    "id": "chunk_034",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.1",
+    "title": "Late Presentment Effective through 12 April 2024",
+    "subsection": "How should I respond?",
+    "pdf_pages": [
+      33
+    ],
+    "printed_pages": [
+      30
+    ],
+    "content": "– The transaction was completed within the time limit. \nProvide a copy of the receipt to support the transaction date. \n– The transaction was completed later than the specified transaction processing time limit. \nAccept the dispute. \n– Credit or reversal has already been processed for the transaction. \nProvide documentation of the credit or reversal that includes the amount and the date it \nwas processed. \n– The cardholder no longer disputes the transaction. \nProvide a letter or email from the cardholder that states they no longer dispute the \ntransaction."
+  },
+  {
+    "id": "chunk_035",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.1",
+    "title": "Late Presentment Effective through 12 April 2024",
+    "subsection": "How to avoid this dispute in the future",
+    "pdf_pages": [
+      33
+    ],
+    "printed_pages": [
+      30
+    ],
+    "content": "– Send completed transactions to your card processor as soon as possible, preferably on the \nday of the sale or within the timeframe specified in your merchant agreement. \n29\n\n3 Dispute Conditions"
+  },
+  {
+    "id": "chunk_036",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.2",
+    "title": "Incorrect Transaction Code",
+    "subsection": "Why did I get this notification?",
+    "pdf_pages": [
+      34
+    ],
+    "printed_pages": [
+      31
+    ],
+    "content": "The transaction was completed with an incorrect transaction code (i.e., you meant to send a \ncredit, but you actually sent a sale, and vice versa or a credit refund was processed instead of a \nreversal or an adjustment)."
+  },
+  {
+    "id": "chunk_037",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.2",
+    "title": "Incorrect Transaction Code",
+    "subsection": "What caused the dispute?",
+    "pdf_pages": [
+      34
+    ],
+    "printed_pages": [
+      31
+    ],
+    "content": "You processed a debit when you should have processed a credit (vice versa), or a credit was \nprocessed when you should have processed a reversal to correct a transaction that was \nprocessed in error."
+  },
+  {
+    "id": "chunk_038",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.2",
+    "title": "Incorrect Transaction Code",
+    "subsection": "How should I respond?",
+    "pdf_pages": [
+      34
+    ],
+    "printed_pages": [
+      31
+    ],
+    "content": "– The transaction was settled with the correct details. \nProvide documentation that shows the transaction was processed correctly as a credit or \ndebit to the cardholder’s account or an explanation or documentation to support that the \ncredit was not a result of a processing error on the original transaction. \n– The transaction was processed incorrectly. \nAccept the dispute. \n– For a credit processed as a debit or a debit processed as a credit, a credit or reversal has \nalready been processed for the transaction. \nProvide documentation of the credit or reversal that includes the amount and the date it \nwas processed. (Does not apply when credit was processed instead of a reversal.)"
+  },
+  {
+    "id": "chunk_039",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.2",
+    "title": "Incorrect Transaction Code",
+    "subsection": "How to avoid this dispute in the future",
+    "pdf_pages": [
+      34
+    ],
+    "printed_pages": [
+      31
+    ],
+    "content": "– Train your sales staff on the proper procedures for processing credits, debits and reversals. \n30\n\n3 Dispute Conditions"
+  },
+  {
+    "id": "chunk_040",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.3",
+    "title": "Incorrect Currency",
+    "subsection": "Why did I get this notification?",
+    "pdf_pages": [
+      35
+    ],
+    "printed_pages": [
+      32
+    ],
+    "content": "The transaction was processed with an incorrect currency code (i.e., the transaction currency is \ndifferent from the currency transmitted through Visa; or the cardholder was not advised or did \nnot agree that Dynamic Currency Conversion (DCC) would occur)."
+  },
+  {
+    "id": "chunk_041",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.3",
+    "title": "Incorrect Currency",
+    "subsection": "What caused the dispute?",
+    "pdf_pages": [
+      35
+    ],
+    "printed_pages": [
+      32
+    ],
+    "content": "There are two common causes for this type of dispute: \n– The transaction currency is different from the currency transmitted through Visa. \n– The cardholder claims that you failed to offer them a choice of paying in your local currency \nor that they declined paying in their local currency."
+  },
+  {
+    "id": "chunk_042",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.3",
+    "title": "Incorrect Currency",
+    "subsection": "How should I respond?",
+    "pdf_pages": [
+      35
+    ],
+    "printed_pages": [
+      32
+    ],
+    "content": "– Correct transaction currency was used to complete the transaction. \nProvide your card processor with documentation such as: \n– Evidence that the cardholder actively chose DCC \n– A copy of the transaction receipt \n– The transaction was processed incorrectly. \nAccept the dispute. \n– Credit or reversal has already been processed for the transaction. \nProvide documentation of the credit or reversal that includes the amount and the date it \nwas processed. \n– The cardholder no longer disputes the transaction. \nProvide a letter or email from the cardholder that states they no longer dispute the \ntransaction."
+  },
+  {
+    "id": "chunk_043",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.3",
+    "title": "Incorrect Currency",
+    "subsection": "How to avoid this dispute in the future",
+    "pdf_pages": [
+      35
+    ],
+    "printed_pages": [
+      32
+    ],
+    "content": "– Train your staff on the proper procedures for using different currency. \n31\n\n3 Dispute Conditions"
+  },
+  {
+    "id": "chunk_044",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.4",
+    "title": "Incorrect Account Number",
+    "subsection": "Why did I get this notification?",
+    "pdf_pages": [
+      36
+    ],
+    "printed_pages": [
+      33
+    ],
+    "content": "The transaction was processed using an incorrect payment credential."
+  },
+  {
+    "id": "chunk_045",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.4",
+    "title": "Incorrect Account Number",
+    "subsection": "What caused the dispute?",
+    "pdf_pages": [
+      36
+    ],
+    "printed_pages": [
+      33
+    ],
+    "content": "The incorrect payment credential was used to complete the transaction."
+  },
+  {
+    "id": "chunk_046",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.4",
+    "title": "Incorrect Account Number",
+    "subsection": "How should I respond?",
+    "pdf_pages": [
+      36
+    ],
+    "printed_pages": [
+      33
+    ],
+    "content": "– The payment credential on the dispute matches the payment credential on your copy of the \nreceipt. \nProvide a copy of the receipt and if the dispute relates to a transaction processed on a \npayment credential not on the issuer’s master file, provide a copy of the authorization log. \n– The payment credential on the dispute does not match the payment credential on your copy \nof the receipt. \nAccept the dispute. \n– Transaction was not authorized. \nAccept the dispute. \n– Credit or reversal has already been processed for the transaction. \nProvide documentation of the credit or reversal that includes the amount and the date it \nwas processed. \n– The cardholder no longer disputes the transaction. \nProvide a letter or email from the cardholder that states they no longer dispute the \ntransaction."
+  },
+  {
+    "id": "chunk_047",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.4",
+    "title": "Incorrect Account Number",
+    "subsection": "How to avoid this dispute in the future",
+    "pdf_pages": [
+      36
+    ],
+    "printed_pages": [
+      33
+    ],
+    "content": "Train your sales staff on the proper procedures for processing transactions, including the \nrecommendation that all transactions be swiped, or chip read. \n32\n\n3 Dispute Conditions"
+  },
+  {
+    "id": "chunk_048",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.5",
+    "title": "Incorrect Amount",
+    "subsection": "Why did I get this notification?",
+    "pdf_pages": [
+      37
+    ],
+    "printed_pages": [
+      34
+    ],
+    "content": "The cardholder submitted a claim to their bank that says one of the following things happened: \n– The transaction amount is incorrect. \n– An addition or transposition error was made when calculating the transaction amount. \n– You altered the transaction amount after the transaction was completed without the \nconsent of the cardholder."
+  },
+  {
+    "id": "chunk_049",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.5",
+    "title": "Incorrect Amount",
+    "subsection": "What caused the dispute?",
+    "pdf_pages": [
+      37
+    ],
+    "printed_pages": [
+      34
+    ],
+    "content": "An incorrect amount was keyed in to complete the transaction or the handwritten amount \ndiffers from printed amount."
+  },
+  {
+    "id": "chunk_050",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.5",
+    "title": "Incorrect Amount",
+    "subsection": "How should I respond?",
+    "pdf_pages": [
+      37
+    ],
+    "printed_pages": [
+      34
+    ],
+    "content": "– Transaction amount is correct. \nProvide supporting documentation (i.e., copy of the transaction receipt). \n– The transaction amount used to settle the transaction was different from the actual \namount due. \nAccept the dispute. \n– Credit or reversal has already been processed for the transaction. \nProvide documentation of the credit or reversal that includes the amount and the date it \nwas processed. \n– The cardholder no longer disputes the transaction. \nProvide a letter or email from the cardholder that states they no longer dispute the \ntransaction."
+  },
+  {
+    "id": "chunk_051",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.5",
+    "title": "Incorrect Amount",
+    "subsection": "How to avoid this dispute in the future",
+    "pdf_pages": [
+      37
+    ],
+    "printed_pages": [
+      34
+    ],
+    "content": "– Train your sales staff on the proper procedures for processing transactions ensuring \ncorrect details are keyed in the terminal before submitting the transaction, including the \nrecommendation that all transactions be swiped, or chip read. \n33\n\n3 Dispute Conditions"
+  },
+  {
+    "id": "chunk_052",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.6",
+    "title": "Duplicate Processing",
+    "subsection": "Why did I get this notification?",
+    "pdf_pages": [
+      38
+    ],
+    "printed_pages": [
+      35
+    ],
+    "content": "The cardholder claims that a single transaction was processed more than once using the same \nPayment Credential on the same Transaction date, and for the same Transaction amount."
+  },
+  {
+    "id": "chunk_053",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.6",
+    "title": "Duplicate Processing",
+    "subsection": "What caused the dispute?",
+    "pdf_pages": [
+      38
+    ],
+    "printed_pages": [
+      35
+    ],
+    "content": "There are four common causes for this type of dispute: \n– The same transaction details were entered into the terminal more than once. \n– The same transaction capture batch was electronically sent to your card processor more \nthan once. \n– Both the merchant copy and the acquirer copy of the transaction receipt were submitted/ \ndeposited. \n– Two transaction receipts were created for the same purchase."
+  },
+  {
+    "id": "chunk_054",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.6",
+    "title": "Duplicate Processing",
+    "subsection": "How should I respond?",
+    "pdf_pages": [
+      38
+    ],
+    "printed_pages": [
+      35
+    ],
+    "content": "– The charges represent two separate transactions/purchases. \nProvide information and documentation to show the two transactions are separate. \n– Cardholder made only one transaction confirmed by your records, but it was settled \nmore than once. \nAccept the dispute. \n– Credit or reversal has already been processed for the transaction. \nProvide documentation of the credit or reversal that includes the amount and the date it \nwas processed. \n– The cardholder no longer disputes the transaction. \nProvide a letter or email from the cardholder that shows they no longer dispute the \ntransaction."
+  },
+  {
+    "id": "chunk_055",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.6",
+    "title": "Duplicate Processing",
+    "subsection": "How to avoid this dispute in the future",
+    "pdf_pages": [
+      38
+    ],
+    "printed_pages": [
+      35
+    ],
+    "content": "– Avoid entering/processing a transaction more than once. If you do enter a transaction twice, \nreverse the duplicate transaction. \n– Train your sales staff on the proper procedures for processing transactions, including how to \nreverse duplicate transactions. \n– Review transaction receipts before you deposit them. \n34\n\n3 Dispute Conditions"
+  },
+  {
+    "id": "chunk_056",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.6",
+    "title": "Paid by Other Means",
+    "subsection": "Why did I get this notification?",
+    "pdf_pages": [
+      39
+    ],
+    "printed_pages": [
+      36
+    ],
+    "content": "The cardholder claims that they paid for the merchandise or service by other means (i.e., cash, \ncheck, other card, the same card with discrepancies on the date and/or amount, etc.)."
+  },
+  {
+    "id": "chunk_057",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.6",
+    "title": "Paid by Other Means",
+    "subsection": "What caused the dispute?",
+    "pdf_pages": [
+      39
+    ],
+    "printed_pages": [
+      36
+    ],
+    "content": "The cardholder initially gave you a Visa card as payment, but then decided to use cash, check, \nor another card after you completed the transaction."
+  },
+  {
+    "id": "chunk_058",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.6",
+    "title": "Paid by Other Means",
+    "subsection": "How should I respond?",
+    "pdf_pages": [
+      39
+    ],
+    "printed_pages": [
+      36
+    ],
+    "content": "– Visa card was the only form of payment used. \nProvide the sales records or other documentation that shows no other form of payment \nwas used. \n– The Visa card and other form of payment were for different merchandise or services. \nProvide the sales records or other documentation to show that both payments were for \ndifferent merchandises or services \n– The charges represent two separate transactions/purchases. \nProvide documentation to show the two transactions represent the purchase of separate \nmerchandise or services. \n– The transaction was paid using another form of payment. \nAccept the dispute. \n– Credit or reversal has already been processed for the transaction. \nProvide documentation of the credit or reversal that includes the amount and the date it \nwas processed. \n– The cardholder no longer disputes the transaction. \nProvide a letter or email from the cardholder that states they no longer dispute the \ntransaction."
+  },
+  {
+    "id": "chunk_059",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.6",
+    "title": "Paid by Other Means",
+    "subsection": "How to avoid this dispute in the future",
+    "pdf_pages": [
+      39
+    ],
+    "printed_pages": [
+      36
+    ],
+    "content": "– If a customer asks to use another form of payment after you have processed the Visa card \ntransaction, reverse the Visa card transaction. \n– Train your sales staff on the proper procedures for handling reversals. \n35\n\n3 Dispute Conditions\n36"
+  },
+  {
+    "id": "chunk_060",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.7",
+    "title": "Invalid Data",
+    "subsection": "Why did I get this notification?",
+    "pdf_pages": [
+      40
+    ],
+    "printed_pages": [
+      37
+    ],
+    "content": "An authorization was obtained using invalid or incorrect data."
+  },
+  {
+    "id": "chunk_061",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.7",
+    "title": "Invalid Data",
+    "subsection": "What caused the dispute?",
+    "pdf_pages": [
+      40
+    ],
+    "printed_pages": [
+      37
+    ],
+    "content": "The common causes for this type of dispute: \n– An authorization request contained an incorrect transaction date, MCC, merchant or \ntransaction type indicator, Country or State Code, Special Condition Indicator, or other \nrequired field."
+  },
+  {
+    "id": "chunk_062",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.7",
+    "title": "Invalid Data",
+    "subsection": "How should I respond?",
+    "pdf_pages": [
+      40
+    ],
+    "printed_pages": [
+      37
+    ],
+    "content": "– The authorization request submitted with the correct/valid data. \nProvide the sales records or other documentation to support that the transaction was \nauthorized with valid data. \n– The authorization was obtained using invalid data. \nAccept the dispute. \n– Credit or reversal has already been processed for the transaction. \nProvide documentation of the credit or reversal that includes the amount and the date it \nwas processed. \n– The cardholder no longer disputes the transaction. \nProvide a letter or email from the cardholder that states they no longer dispute the \ntransaction."
+  },
+  {
+    "id": "chunk_063",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "12.7",
+    "title": "Invalid Data",
+    "subsection": "How to avoid this dispute in the future",
+    "pdf_pages": [
+      40
+    ],
+    "printed_pages": [
+      37
+    ],
+    "content": "– Ensure that all transactions are processed with the correct data and your account is correctly \nset up with the proper information.\n\n3 Dispute Conditions"
+  },
+  {
+    "id": "chunk_064",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.1",
+    "title": "Merchandise/Services Not Received",
+    "subsection": "Why did I get this notification?",
+    "pdf_pages": [
+      41
+    ],
+    "printed_pages": [
+      38
+    ],
+    "content": "The cardholder claims that merchandise or services that they ordered were not received by \nthe expected date (or merchandise was unavailable for pick-up)."
+  },
+  {
+    "id": "chunk_065",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.1",
+    "title": "Merchandise/Services Not Received",
+    "subsection": "What caused the dispute?",
+    "pdf_pages": [
+      41
+    ],
+    "printed_pages": [
+      38
+    ],
+    "content": "There are several common causes for this type of dispute: \n– The merchandise was not delivered and received by the agreed-upon delivery date, time or \nto the agreed upon location. \n– The merchandise was not available for pick-up at the agreed location or by agreed date. \n– The services were not available and/or not provided to the customer."
+  },
+  {
+    "id": "chunk_066",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.1",
+    "title": "Merchandise/Services Not Received",
+    "subsection": "How should I respond?",
+    "pdf_pages": [
+      41
+    ],
+    "printed_pages": [
+      38
+    ],
+    "content": "– The merchandise has been delivered /picked up by the agreed-upon date or agreed \nupon location. \nProvide documentation to prove that the cardholder or authorized person received the \nmerchandise or services as agreed. \n– Specified delivery date has not yet passed. \nProvide documentation to support the expected delivery date. \n– Cardholder cancelled prior to expected date. \nProvide documentation to support you were able to provide merchandise or service and \nthat the cardholder cancelled prior to the delivery date. \n– Transaction represents a partial payment with balance due. \nProvide documentation to support additional payments due. \n– Airline transaction when the Cardholder is disputing the flight did not take place. \nProvide documentation to prove that the flight departed. \n– Transaction represents future services. \nProvide documentation to show that merchant did not cancel and services were available. \n– Effective for Dispute Response on or after 19 October 2024, For Transactions involving \nthe acquisition of non-fiat currency or non-fungible token(s), the non-fiat currency or \nnonfungible tokens (NFT) was successfully delivered to the destination wallet address \nsupplied by the cardholder at the time of the transaction. \nProvide documentation to show one or more of the following: \n• Destination wallet address \n•\n Blockchain Transaction \nhash, which \nmust be searchable/traceable on an open-source \nwebsite \n• Prior approved similar transactions using the same Cardholder Account Number \n37\n\n3 Dispute Conditions\n\n– The merchandise or service was not delivered/provided to the customer. \nAccept the dispute. \n– Credit or reversal has already been processed for the transaction. \nProvide documentation of the credit or reversal that includes the amount and the date it \nwas processed. \n– The cardholder no longer disputes the transaction. \nProvide a letter or email from the cardholder that states they no longer dispute the \ntransaction."
+  },
+  {
+    "id": "chunk_067",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.1",
+    "title": "Merchandise/Services Not Received",
+    "subsection": "How to avoid this dispute in the future",
+    "pdf_pages": [
+      42
+    ],
+    "printed_pages": [
+      39
+    ],
+    "content": "– If merchandise is going to be delayed, notify the customer in writing of the delay and \nexpected delivery date. Allow the customer to cancel if they choose to. \n– If you are shipping merchandise without requesting proof of delivery, consider the costs and \nbenefits of doing so compared to the value of the merchandise you ship. Proof of delivery or \npick-up, such as certified mail or a carrier’s certification that the merchandise was delivered \nto the correct address or picked up and signed for by the cardholder, will allow you to return \nthe dispute if the customer claims the merchandise was not received. \n– You may consider purchasing shipping insurance as additional protection for possible lost, \nstolen and/or damaged in transit. \n38\n\n3 Dispute Conditions"
+  },
+  {
+    "id": "chunk_068",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.2",
+    "title": "Cancelled Recurring Transaction",
+    "subsection": "Why did I get this notification?",
+    "pdf_pages": [
+      43
+    ],
+    "printed_pages": [
+      40
+    ],
+    "content": "The Cardholder withdrew permission to charge the account for a recurring transaction or you \nor your card processor received notification that, before the Transaction was processed, that \nthe cardholder’s account was closed.\n4\n3"
+  },
+  {
+    "id": "chunk_069",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.2",
+    "title": "Cancelled Recurring Transaction",
+    "subsection": "What caused the dispute?",
+    "pdf_pages": [
+      43
+    ],
+    "printed_pages": [
+      40
+    ],
+    "content": "There are several common causes for this type of dispute such as follows:\n– The cardholder withdrew permission to charge the account.\n– The cardholder cancelled the card account.\n– The cardholder’s bank cancelled the card account.\n– The transaction was processed after you received notice that the cardholder’s account was \nclosed."
+  },
+  {
+    "id": "chunk_070",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.2",
+    "title": "Cancelled Recurring Transaction",
+    "subsection": "How should I respond?",
+    "pdf_pages": [
+      43
+    ],
+    "printed_pages": [
+      40
+    ],
+    "content": "– Transaction was cancelled, but services were used. \nEffective for Disputes processed on or after 19 October 2024, provide proof the cardholder \nused services after the withdrawal of permission to bill date and prior to the Dispute \nProcessing Date.\n– The cardholder withdrew their permission to charge the account for a recurring transaction \nand you have not issued a credit. \nAccept the dispute.\n– Credit or reversal has already been processed for the transaction. \nProvide documentation of the credit or reversal that includes the amount and the date it \nwas processed.\n– The cardholder no longer disputes the transaction. \nProvide a letter or email from the cardholder stating that they no longer dispute the \ntransaction."
+  },
+  {
+    "id": "chunk_071",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.2",
+    "title": "Cancelled Recurring Transaction",
+    "subsection": "How to avoid this dispute in the future",
+    "pdf_pages": [
+      43
+    ],
+    "printed_pages": [
+      40
+    ],
+    "content": "– Train your sales and customer service staff on the proper procedures for processing \nrecurring transactions, as these transactions are particularly susceptible to cardholder \ndisputes.\n– Always respond in a timely manner to customer requests relating to the renewal or \ncancellation of recurring transactions. Check customer logs daily for cancellation or non-\nrenewal requests; take appropriate action to comply with them in a timely manner. \n– Send a notification to the customer stating that his or her recurring payment account has \nbeen closed. If any balance amount is owed for services already utilized, request another \nform of payment from the cardholder.\n3 Includes in the Europe region, installment transaction.\n4 Includes in the Europe region, withdrawn facilities or deceased cardholder.\n39\n\n3 Dispute Conditions"
+  },
+  {
+    "id": "chunk_072",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.3",
+    "title": "Not as Described or Defective Merchandise/Services",
+    "subsection": "Why did I get this notification?",
+    "pdf_pages": [
+      44
+    ],
+    "printed_pages": [
+      41
+    ],
+    "content": "The cardholder is claiming that the merchandise or services were one or more of these: \n– Merchandise or services did not match the description on the transaction receipt or other \ndocumentation presented at the time of purchase. \n– Merchandise or services are not the same as your verbal description (for a telephone \ntransaction\n5). \n– The merchandise was received damaged or defective. \n– For travel agency merchant using a Visa Commercial Card Virtual Account that has failed to \nhonor the contractual agreement or the services provided by the travel agency merchant to \nthe Virtual Account holder were not as described in the contractual agreement. \n– The cardholder disputes the quality of the merchandise or services."
+  },
+  {
+    "id": "chunk_073",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.3",
+    "title": "Not as Described or Defective Merchandise/Services",
+    "subsection": "What caused the dispute?",
+    "pdf_pages": [
+      44
+    ],
+    "printed_pages": [
+      41
+    ],
+    "content": "There are several common causes for this type of dispute: \n– You sent the wrong merchandise to the cardholder. \n– You sent the merchandise, but it was damaged during shipment. \n– You inaccurately described the merchandise or services at the time of purchase. \n– You did not perform the services as described."
+  },
+  {
+    "id": "chunk_074",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.3",
+    "title": "Not as Described or Defective Merchandise/Services",
+    "subsection": "How should I respond?",
+    "pdf_pages": [
+      44
+    ],
+    "printed_pages": [
+      41
+    ],
+    "content": "– The merchandise or services received by the customer were as described. \nProvide specific information or documentation (invoice, contract, etc.) to refute the \ncardholder’s claims. Quality disputes are where the customer does not agree with the \ncondition of merchandise or service received (e.g., a car repair situation or quality of a hotel \nroom). There may be instances where you will need to obtain a neutral third-party opinion \nto help corroborate your claim against the cardholder. Provide as much specific information \nand documentation as possible to refute the cardholder’s claims. It is recommended that \nyou address each point that the cardholder has made. \n– Returned merchandise was not received or services were not cancelled. \nAdvise that you have not received the returned merchandise and the cardholder never \nattempted to return or cardholder has not cancelled services. However, double check your \nincoming shipping records to verify prior to response. \n5 Only applies to US Domestic, Canada Domestic and Interregional between Canada and US Regions. \n40\n\n3 Dispute Conditions\n\n– The merchandise was replaced or repaired. \nProvide evidence of the following: \n– The cardholder agreed to repair or to a replacement \n– Repair or replacement was received \n– The repair or replacement has since not been disputed \n– Credit or reversal has already been processed for the transaction. \nProvide documentation of the credit or reversal that includes the amount and the date it \nwas processed. \n– The cardholder no longer disputes the transaction. \nProvide a letter or email from the cardholder that states they no longer dispute the \ntransaction. \n– Effective for Dispute Responses processed on or after 19 October 2024, For Transactions \ninvolving the acquisition of non-fiat currency or purchase of non-fungible token(s) \nProvide evidence to prove the non-fiat currency or non-fungible tokens (NFT) received by the \nCardholder matches the non-fiat currency or non-fungible token(s) that was described at the \ntime of the Transaction."
+  },
+  {
+    "id": "chunk_075",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.3",
+    "title": "Not as Described or Defective Merchandise/Services",
+    "subsection": "How to avoid this dispute in the future",
+    "pdf_pages": [
+      45
+    ],
+    "printed_pages": [
+      42
+    ],
+    "content": "– Ensure that the description of merchandise or services shown in advertisements, online, and \ntransaction receipts, or used in telephone order-taking scripts are accurate, complete, and \nnot misleading. \n– Never refer the cardholder to the manufacturer in lieu of attempting to resolve the issue. \nThe merchant of record is considered the liable party/point of contact for resolution. \n– Merchants should keep in mind that their return policy has no bearing on disputes that fall \nunder this dispute condition. \n41\n\n3 Dispute Conditions"
+  },
+  {
+    "id": "chunk_076",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.4",
+    "title": "Counterfeit Merchandise",
+    "subsection": "Why did I get this notification?",
+    "pdf_pages": [
+      46
+    ],
+    "printed_pages": [
+      43
+    ],
+    "content": "The merchandise was identified as counterfeit by the owner of the intellectual property or \nauthorized representative, a customs agency, law enforcement agency, other governmental \nagency, or a neutral third-party expert."
+  },
+  {
+    "id": "chunk_077",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.4",
+    "title": "Counterfeit Merchandise",
+    "subsection": "What caused the dispute?",
+    "pdf_pages": [
+      46
+    ],
+    "printed_pages": [
+      43
+    ],
+    "content": "Merchandise received by the customer has been identified as counterfeit."
+  },
+  {
+    "id": "chunk_078",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.4",
+    "title": "Counterfeit Merchandise",
+    "subsection": "How should I respond?",
+    "pdf_pages": [
+      46
+    ],
+    "printed_pages": [
+      43
+    ],
+    "content": "– The merchandise was authentic/genuine and not counterfeit. \nProvide specific information and invoices to refute the cardholder’s claims. \n– The cardholder’s claim/complaint is valid. \nAccept the dispute. \n– Credit or reversal has already been processed for the transaction. \nProvide documentation of the credit or reversal that includes the amount and the date it \nwas processed. \n– The cardholder no longer disputes the transaction. \nProvide a letter or email from the cardholder stating that they no longer dispute the \ntransaction."
+  },
+  {
+    "id": "chunk_079",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.4",
+    "title": "Counterfeit Merchandise",
+    "subsection": "How to avoid this dispute in the future",
+    "pdf_pages": [
+      46
+    ],
+    "printed_pages": [
+      43
+    ],
+    "content": "– Ensure that the goods are genuine. \n– Merchants should keep in mind that their return policy has no bearing on disputes that \nfall under this dispute condition and that the cardholder is also not required to return the \nmerchandise. \n42\n\n3 Dispute Conditions"
+  },
+  {
+    "id": "chunk_080",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.5",
+    "title": "Misrepresentation",
+    "subsection": "Why did I get this notification?",
+    "pdf_pages": [
+      47
+    ],
+    "printed_pages": [
+      44
+    ],
+    "content": "The cardholder is claiming that the terms of sale were misrepresented."
+  },
+  {
+    "id": "chunk_081",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.5",
+    "title": "Misrepresentation",
+    "subsection": "What caused the dispute?",
+    "pdf_pages": [
+      47
+    ],
+    "printed_pages": [
+      44
+    ],
+    "content": "– The terms of sale were misrepresented for a transaction at a merchant that is any of the \nfollowing: \n– Timeshare Reseller or recovers a timeshare reseller fee. \n– Recovers, consolidates, reduces, or amends existing financial goods or services, \nincluding debt consolidation, credit repair/counseling, mortgage repair/modification/ \ncounselling, foreclosure relief services and credit card interest rate reduction services. \n– Technical Services/Support or computer software being sold using inaccurate ads or \nthat contains malicious software downloads. \n– Suggests that an income will be generated or recommends that the cardholder \npurchases additional items to generate more income. \n– Advises the cardholder that funds can be recovered. \n– Outbound Telemarking. \n– Investment Products when merchant refuses to allow cardholder to withdraw available \nbalance (e.g. binary options). \n– Trial Periods/One-off purchase where the cardholder was not clearly advised of any further \nbilling."
+  },
+  {
+    "id": "chunk_082",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.5",
+    "title": "Misrepresentation",
+    "subsection": "How should I respond?",
+    "pdf_pages": [
+      47
+    ],
+    "printed_pages": [
+      44
+    ],
+    "content": "– The merchandise or services were not misrepresented. \nProvide documentation to prove the terms of sale were not misrepresented or for \ninvestments evidence that there are no funds to withdraw. \n– Cardholder’s claim is valid, and the merchandise or services provided were not as intended. \nAccept the dispute. \n– Cardholder agreed to future transactions. \nTransaction relating to Card-Absent Environment where merchandise or digital goods have \nbeen purchased through trial period, promotional period or introductory offer or as a one-\noff purchase, provide documentation to prove the cardholder expressly agreed to future \ntransactions and that you notified the cardholder of future transactions at least 7 days \nbefore transaction date \n– Credit or reversal has already been processed for the transaction. \nProvide documentation of the credit or reversal includes the amount and the date it was \nprocessed. \n– The cardholder no longer disputes the transaction. \nProvide a letter or email from the cardholder that states they no longer dispute the \ntransaction. \n43\n\n3 Dispute Conditions"
+  },
+  {
+    "id": "chunk_083",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.5",
+    "title": "Misrepresentation",
+    "subsection": "How to avoid this dispute in the future",
+    "pdf_pages": [
+      48
+    ],
+    "printed_pages": [
+      45
+    ],
+    "content": "– Ensure that the description of merchandise or services shown in advertisements, online, and \ntransaction receipts, or used in telephone order-taking scripts are accurate, complete, and \nnot misleading. \n– Merchants should keep in mind that their return policy has no bearing on disputes that fall \nunder this dispute condition. \n44\n\n3 Dispute Conditions"
+  },
+  {
+    "id": "chunk_084",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.6",
+    "title": "Credit Not Processed",
+    "subsection": "Why did I get this notification?",
+    "pdf_pages": [
+      49
+    ],
+    "printed_pages": [
+      46
+    ],
+    "content": "The cardholder is claiming that they received a credit or voided transaction receipt that has not \nbeen processed."
+  },
+  {
+    "id": "chunk_085",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.6",
+    "title": "Credit Not Processed",
+    "subsection": "What caused the dispute?",
+    "pdf_pages": [
+      49
+    ],
+    "printed_pages": [
+      46
+    ],
+    "content": "The most common causes for this dispute are that you: \n– Did not issue a credit. \n– Issued the credit but did not deposit the credit with your acquirer in time for it to appear on \nthe cardholder’s next statement. \n– Have a transaction receipt that should have been voided/cancelled but was not processed."
+  },
+  {
+    "id": "chunk_086",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.6",
+    "title": "Credit Not Processed",
+    "subsection": "How should I respond?",
+    "pdf_pages": [
+      49
+    ],
+    "printed_pages": [
+      46
+    ],
+    "content": "– The sale is valid, and credit is not due. \nProvide documentation and refute the validity of the documentation supplied by the \ncardholder’s bank. \n– The transaction is due for refund but has not yet been processed. \nAccept the dispute. \n– Credit or reversal has already been processed for the transaction. \nProvide documentation of the credit or reversal that includes the amount and the date it \nwas processed. \n– The cardholder no longer disputes the transaction. \nProvide a letter or email from the cardholder that states they no longer dispute the \ntransaction."
+  },
+  {
+    "id": "chunk_087",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.6",
+    "title": "Credit Not Processed",
+    "subsection": "How to avoid this dispute in the future",
+    "pdf_pages": [
+      49
+    ],
+    "printed_pages": [
+      46
+    ],
+    "content": "– Ensure that credits/reversals are processed promptly. \n45\n\n3 Dispute Conditions"
+  },
+  {
+    "id": "chunk_088",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.7",
+    "title": "Cancelled Merchandise/Services",
+    "subsection": "Why did I get this notification?",
+    "pdf_pages": [
+      50
+    ],
+    "printed_pages": [
+      47
+    ],
+    "content": "The cardholder is claiming that they returned merchandise or cancelled services, but the credit \nhas not appeared on the cardholder’s Visa statement."
+  },
+  {
+    "id": "chunk_089",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.7",
+    "title": "Cancelled Merchandise/Services",
+    "subsection": "What caused the dispute?",
+    "pdf_pages": [
+      50
+    ],
+    "printed_pages": [
+      47
+    ],
+    "content": "The most common causes for this dispute are: \n– No credit has been issued/processed for the cancelled services or merchandise that was \ncancelled or returned. \n– No credit has been issued/processed due to returns not being accepted, however return \npolicy was not properly disclosed to the customer. \n– A Timeshare cancellation was not processed within 14 days of the contract or receipt date. \n– A guaranteed reservation was cancelled and the customer was charged a No-Show Fee."
+  },
+  {
+    "id": "chunk_090",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.7",
+    "title": "Cancelled Merchandise/Services",
+    "subsection": "How should I respond?",
+    "pdf_pages": [
+      50
+    ],
+    "printed_pages": [
+      47
+    ],
+    "content": "– Return, refund, and cancellation policies were properly disclosed. \nProvide documentation to support that your limited return or cancellation policy was \nproperly disclosed and agreed to at the time of sale. \n– The cardholder did not cancel according to your disclosed policy. \nProvide documentation to support that your limited return or cancellation policy was \nproperly disclosed and how the cardholder did not cancel according to the disclosed policy. \n– Cardholder continued to use services or merchandise was not returned. \nProvide evidence to support. \n– The cardholder’s complaint is valid. \nAccept the dispute. \n– Credit or reversal has already been processed for the transaction. \nProvide documentation of the credit that includes the amount and the date it was \nprocessed. \n– The cardholder no longer disputes the transaction. \nProvide a letter or email from the cardholder that states they no longer dispute the \ntransaction. \n46\n\n3 Dispute Conditions\n 47"
+  },
+  {
+    "id": "chunk_091",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.7",
+    "title": "Cancelled Merchandise/Services",
+    "subsection": "How to avoid this dispute in the future",
+    "pdf_pages": [
+      51
+    ],
+    "printed_pages": [
+      48
+    ],
+    "content": "– Before asking the cardholder to sign a transaction receipt or separate contract, be sure \nyour establishment’s return/cancellation policy is clearly disclosed near the customer \nsignature line on the transaction receipts or on the separate contract that can be tied to \nthe transaction. If the disclosure is on the back of the receipt or separate contract, the \ncardholder must sign the front and initial the back by the disclosure statement. \n– If your business has a limited return policy or does not allow returns at all, the words “no \nreturns” or similar words must be on all copies of the transaction receipts and supplied to \nthe cardholder for agreement before the transaction is completed with a signature or pin. \n– For Internet transactions, the website must communicate its refund policy to the cardholder \nand require the cardholder to select either a “click to accept” or other acknowledgement \nbutton or check box or location for electronic signature to acknowledge the policy. The \nterms and conditions of the purchase must be displayed on the same screen view as the \ncheckout screen used to present the total purchase amount or within the sequence of \nwebsite pages\n6 the cardholder accesses during the checkout process, or on the checkout \nscreen near the submit or click to accept button. \n6 The disclosure may be a link to a separate page if that link forms part of the “click to accept” acknowledgement and refers \nto the return, refund or cancellation policy.\n\n3 Dispute Conditions"
+  },
+  {
+    "id": "chunk_092",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.8",
+    "title": "Original Credit Transaction Not Accepted",
+    "subsection": "Why did I get this notification?",
+    "pdf_pages": [
+      52
+    ],
+    "printed_pages": [
+      49
+    ],
+    "content": "The original credit was not accepted."
+  },
+  {
+    "id": "chunk_093",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.8",
+    "title": "Original Credit Transaction Not Accepted",
+    "subsection": "What caused the dispute?",
+    "pdf_pages": [
+      52
+    ],
+    "printed_pages": [
+      49
+    ],
+    "content": "Either the cardholder does not accept the credit, or the issuer does not allow Original Credit \nTransactions (OCT’s) on certain types of cards due to local law."
+  },
+  {
+    "id": "chunk_094",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.8",
+    "title": "Original Credit Transaction Not Accepted",
+    "subsection": "How should I respond?",
+    "pdf_pages": [
+      52
+    ],
+    "printed_pages": [
+      49
+    ],
+    "content": "– The original credit transaction was reversed. \nSupply documentation or information to support. \n– The dispute is valid. \nAccept the dispute. \n– The cardholder no longer disputes the transaction. \nProvide a letter or email from the cardholder that states they no longer dispute the \ntransaction. \n48"
+  },
+  {
+    "id": "chunk_095",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.9",
+    "title": "Non-Receipt of Cash at an ATM",
+    "subsection": "Why did I get this notification?",
+    "pdf_pages": [],
+    "printed_pages": [],
+    "content": "The cardholder is claiming that they participated in the transaction, but did not receive cash or \nreceived a partial amount at the ATM."
+  },
+  {
+    "id": "chunk_096",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.9",
+    "title": "Non-Receipt of Cash at an ATM",
+    "subsection": "What caused the dispute?",
+    "pdf_pages": [],
+    "printed_pages": [],
+    "content": "Cardholder did not receive the full or partial cash from an ATM withdrawal."
+  },
+  {
+    "id": "chunk_097",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.9",
+    "title": "Non-Receipt of Cash at an ATM",
+    "subsection": "How should I respond?",
+    "pdf_pages": [],
+    "printed_pages": [],
+    "content": "– The ATM did dispense the correct value of cash. \nProvide your card processor with a copy of the ATM cash disbursement transaction record \ncontaining at least the following: \n– Payment Credential \n– Transaction time or sequential number that identifies the individual transactions \n– Indicator that confirms the ATM cash disbursement was successful \n– The cardholder’s complaint is valid. \nAccept the dispute. \n– Credit or reversal has already been processed for the transaction. \nProvide documentation of the credit or reversal that includes the amount and the date it was \nprocessed. \n– The cardholder no longer disputes the transaction. \nProvide a letter or email from the cardholder that states they no longer dispute the \ntransaction."
+  },
+  {
+    "id": "chunk_098",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "3",
+    "condition": "13.9",
+    "title": "Non-Receipt of Cash at an ATM",
+    "subsection": "How to avoid this dispute in the future",
+    "pdf_pages": [],
+    "printed_pages": [],
+    "content": "– Reconcile ATMs in a timely manner and adjust out of balance machines accordingly. \n– If you notice a discrepancy, process a credit/reversal. \n49"
+  },
+  {
+    "id": "chunk_099",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "4",
+    "condition": null,
+    "title": "Providing Compelling Evidence",
+    "subsection": "Compelling Evidence and Merchant Rights",
+    "pdf_pages": [
+      53
+    ],
+    "printed_pages": [
+      50
+    ],
+    "content": "4\nProviding Compelling \nEvidence \nWhat’s Covered \n– Compelling Evidence and Merchant dispute response rights \n– Issuer Compelling Evidence Requirements \nCompelling evidence is information or documentation provided by a Merchant \nor an Acquirer that attempts to prove that the cardholder participated in the \ntransaction, received the goods or services, or benefitted from the transaction as \nspecified in the table under Compelling Evidence and Merchant Rights. Compelling \nEvidence does not mandate that Visa, the Issuer, or any other entity conclude that \nthe Cardholder participated in the Transaction, received goods or services, agreed \nto Dynamic Currency Conversion, or otherwise benefited from the Transaction. \nThis section explains the pre-arbitration attempt processing requirements related \nto a merchant providing compelling evidence. 50"
+  },
+  {
+    "id": "chunk_100",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "4",
+    "condition": null,
+    "title": "Providing Compelling Evidence",
+    "subsection": "Compelling Evidence and Merchant Rights",
+    "pdf_pages": [
+      54
+    ],
+    "printed_pages": [
+      51
+    ],
+    "content": "4 Providing Compelling Evidence\n \nCompelling Evidence and Merchant Rights \nMerchants will have a right to provide compelling evidence for the following dispute conditions: \n– Condition 10.1 – EMV Liability Shift Counterfeit Fraud\n– Condition 10.3 – Other Fraud – Card-Present Environment\n– Condition 10.4 – Other Fraud – Card-Absent Environment\nItem \n# Allowable Compelling Evidence Applicable Dispute Condition \n10.1 \nEMV Liability Shift \nCounterfeit Fraud \n10.3 \nOther Fraud – \nCard-Present \nEnvironment \n10.4 \nOther Fraud \n– Card-Absent\nEnvironment\n1 Photographic or email evidence to prove \na link between the person receiving \nthe merchandise or services and the \nCardholder, or to prove that the Cardholder \ndisputing the Transaction is in possession \nof the merchandise and/or is using the \nmerchandise or services. \nX \n2 For a Card-Absent Environment Transaction \nin which the merchandise is collected from \nthe Merchant location, any of the following: \n – Cardholder signature on the pick-up form\n – Copy of identification presented by the \nCardholder7\n – Details of identification presented by the \nCardholder\nX \n3 For a Card-Absent Environment Transaction \nin which the merchandise is delivered, \nevidence that the item was delivered to \nthe same physical address for which the \nMerchant received an AVS match of Y or M. \nA signature is not required as evidence of \ndelivery. \nX \n4 For an Electronic Commerce Transaction \nrepresenting the sale of digital goods \ndownloaded from a Merchant’s website or \napplication, description of the merchandise \nor services successfully downloaded, the date \nand time such merchandise or services were \ndownloaded, and 2 or more of the following: \n – Purchaser’s IP address and the device \ngeographical location at the date and time \nof the Transaction\n – Device ID number and name of device (if \navailable)\nX \n 51 \n7 A Merchant must not require positive identification as a condition of Card acceptance, unless it is required or permitted \nelsewhere in the Visa Rules. \nn/a n/a\nn/a n/a\nn/a n/a\nn/a n/a"
+  },
+  {
+    "id": "chunk_101",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "4",
+    "condition": null,
+    "title": "Providing Compelling Evidence",
+    "subsection": "Compelling Evidence and Merchant Rights",
+    "pdf_pages": [
+      55
+    ],
+    "printed_pages": [
+      52
+    ],
+    "content": "4 Providing Compelling Evidence\n \n7 A Merchant must not require positive identification as a condition of Card acceptance, unless it is required or permitted \nelsewhere in the Visa Rules. \n52 \nItem \n# Allowable Compelling Evidence Applicable Dispute Condition \n10.1 \nEMV Liability Shift \nCounterfeit Fraud \n10.3 \nOther Fraud – \nCard-Present \nEnvironment \n10.4 \nOther Fraud \n– Card-Absent\nEnvironment\n4 – \n– \n– \n– \nPurchaser’s name and email address \nlinked to the customer profile held by the \nMerchant \nEvidence that the profile set up by the \npurchaser on the Merchant’s website or \napplication was accessed by the purchaser \nand has been successfully verified by the \nMerchant before the Transaction Date \nEvidence that the Merchant’s website \nor application was accessed by the \nCardholder for merchandise or services \non or after the Transaction Date \nEvidence that the same device and Card \nused in the disputed Transaction were \nused in any previous Transaction that was \nnot disputed \n5 For a Transaction in which merchandise was \ndelivered to a business address, evidence \nthat the merchandise was delivered and that, \nat the time of delivery, the Cardholder was \nworking for the company at that address. \nA signature is not required as evidence of \ndelivery. \nX \n6 For a Mail/Phone Order Transaction, a signed \norder form. \nX \n7 For a passenger transport Transaction, \nevidence that the services were provided and \nany of the following: \n– Evidence that the ticket was received at \nthe Cardholder’s billing address\n– Evidence that the ticket or boarding pass \nwas scanned at the gate\n– Details of frequent flyer miles relating \nto the disputed Transaction that were \nearned or redeemed, including address \nand telephone number, that establish a \nlink to the Cardholder\n– Evidence of any of the following additional \nTransactions related to the original \nTransaction: purchase of seat upgrades, \npayment for extra baggage, or purchases \nmade on board the passenger transport\nX \nn/a n/a\nn/a n/a\nn/a n/a"
+  },
+  {
+    "id": "chunk_102",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "4",
+    "condition": null,
+    "title": "Providing Compelling Evidence",
+    "subsection": "Compelling Evidence and Merchant Rights",
+    "pdf_pages": [
+      56
+    ],
+    "printed_pages": [
+      53
+    ],
+    "content": "4 Providing Compelling Evidence\n \n 7 A Merchant must not require positive identification as a condition of Card acceptance, unless it is required or permitted \nelsewhere in the Visa Rules. \n53 \nItem \n# Allowable Compelling Evidence Applicable Dispute Condition \n10.1 \nEMV Liability Shift \nCounterfeit Fraud \n10.3 \nOther Fraud – \nCard-Present \nEnvironment \n10.4 \nOther Fraud \n– Card-Absent\nEnvironment\n8 For a T&E Transaction, evidence that the \nservices were provided and either: \n – Details of loyalty program rewards earned \nand/or redeemed including address and \ntelephone number that establish a link to \nthe Cardholder\n – Evidence that an additional Transaction \nor Transactions related to the original \nTransaction, such as the purchase of \nT&E service upgrades or subsequent \npurchases made throughout the T&E \nservice period, were not disputed\nX \n9 For a virtual Card Transaction at a Lodging \nMerchant, evidence of the Issuer’s payment \ninstruction sent through Visa Payables \nAutomation, containing all of the following: \n – Issuer statement confirming approved use \nof the Card at the Lodging Merchant\n – Payment Credential\n – Guest name\n – Name of the company (requestor) and \neither their phone number, fax number, \nor email address\nX \n10 For a Card-Absent Environment Transaction \nor effective for pre-Arbitration attempts \nprocessed on or after 19 October 2024, an \nOriginal Credit Transaction (OCT), evidence \nthat 3 or more of the following had been \nused in an undisputed Transaction: \n – Customer account/login ID\n – Delivery address\n – Device ID/device fingerprint\n – Email address\n – IP address\n – Telephone number\nX \nn/a n/a\nn/a n/a\nn/a n/a"
+  },
+  {
+    "id": "chunk_103",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "4",
+    "condition": null,
+    "title": "Providing Compelling Evidence",
+    "subsection": "Compelling Evidence and Merchant Rights",
+    "pdf_pages": [
+      57
+    ],
+    "printed_pages": [
+      54
+    ],
+    "content": "4 Providing Compelling Evidence\n \n 7 A Merchant must not require positive identification as a condition of Card acceptance, unless it is required or permitted \nelsewhere in the Visa Rules. \n54 \nItem \n# Allowable Compelling Evidence Applicable Dispute Condition \n10.1 \nEMV Liability Shift \nCounterfeit Fraud \n10.3 \nOther Fraud – \nCard-Present \nEnvironment \n10.4 \nOther Fraud \n– Card-Absent\nEnvironment\n11 Evidence that the Transaction was completed \nby a member of the Cardholder’s household \nor family \nX \n12 Evidence of one or more non-disputed \npayments for the same merchandise or \nservice \nX \n13 For a Recurring Transaction, evidence of all of \nthe following: \n– A legally binding contract held between \nthe Merchant and the Cardholder\n– The Cardholder is using the merchandise \nor services\n– A previous Transaction that was not \ndisputed\nX \n14 In the Europe Region: Evidence that the initial \nTransaction to set up a wallet was completed \nusing Visa Secure but any subsequent \nTransaction from the wallet that was not \ncompleted using Visa Secure contained all \nwallet-related Transaction data. \nX \n15 For a US Domestic Card-Present Environment \nTransaction that is key-entered and did not \ntake place at a Chip-Reading Device, either: \n– Evidence that the same Card used in the \ndisputed Transaction was used in any \nprevious or subsequent Transaction that \nwas not disputed\n– Copy of both:\n– Identification presented by the \nCardholder\n7 \n– Receipt, invoice, or contract with \ninformation that links to the \nidentification presented by the \nCardholder \nX X \nn/a n/a\nn/a n/a\nn/a n/a\nn/a n/a\nn/a"
+  },
+  {
+    "id": "chunk_104",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "4",
+    "condition": null,
+    "title": "Providing Compelling Evidence",
+    "subsection": "Compelling Evidence and Merchant Rights",
+    "pdf_pages": [
+      58
+    ],
+    "printed_pages": [
+      55
+    ],
+    "content": "4 Providing Compelling Evidence\n 55 \nItem \n# Allowable Compelling Evidence Applicable Dispute Condition \n10.1 \nEMV Liability Shift \nCounterfeit Fraud \n10.3 \nOther Fraud – \nCard-Present \nEnvironment \n10.4 \nOther Fraud \n– Card-Absent\nEnvironment\n16 Effective 19 October 2024 For Transactions \nfor the acquisition of non-fiat currency (for \nexample: cryptocurrency) or purchase of a \nnonfungible token (NFT), any of the following: \n– Destination wallet address\n– Blockchain transaction hash, which must \nbe searchable/traceable on an open \nsource website\n– Prior approved similar transactions using \nthe same Payment Credential\nX \n7 A Merchant must not require positive identification as a condition of Card acceptance, unless it is required or permitted \nelsewhere in the Visa Rules. \nn/a n/a"
+  },
+  {
+    "id": "chunk_105",
+    "source": "visa-dispute-guidelines.pdf",
+    "document_version": "June 2024",
+    "section": "4",
+    "condition": null,
+    "title": "Providing Compelling Evidence",
+    "subsection": "Issuer Compelling Evidence Requirements",
+    "pdf_pages": [
+      59
+    ],
+    "printed_pages": [
+      56
+    ],
+    "content": "4 Providing Compelling Evidence\n \nIssuer Compelling Evidence Requirements \nHow Issuers Must Address Compelling Evidence \nTransactions involving issuer and merchant in the Europe Regions, with the compelling \nevidence rights for merchants comes the need to ensure issuers provide this information to \ntheir cardholders. If compelling evidence is provided by the acquirer, issuers must contact \nthe cardholder to review the compelling evidence and provide information detailing how the \nCompelling Evidence has been addressed by the Cardholder and why the cardholder continues \nto dispute the transaction. \nTransactions involving issuer or merchant in the Europe Region, issuer may pursue pre-\narbitration by providing certification that they have contacted the cardholder to review the \nCompelling Evidence and provide an explanation of why the cardholder continues to dispute \nthe transaction. \nTransactions not involving issuer and merchant in the Europe Region, for dispute condition \n10.4, the issuer may either: \n– Certify that the cardholder name and address provided by the merchant do not match the \nissuers records, if the Compelling Evidence contains both cardholder name and physical \naddress, they can. In this case, the merchant should accept the transaction or risk losing in \nArbitration. Issuers will be required to provide certification through Visa Resolve Online. \n– Certify that it has contacted the Cardholder to review the Compelling Evidence, and provide \nan explanation of why the Cardholder continues to dispute the Transaction. \n56"
+  }
+]
