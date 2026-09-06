@@ -1,30 +1,22 @@
-from retrieve import search, build_context
-from prompt import build_rag_prompt
+from retrieve import search, rerank_results, process_query
 
+query = input("Enter a retrieval test query: ")
 
-queries = [
+query = process_query(query)
 
-    "Customer says they never received the merchandise. What evidence can the merchant provide?",
+results = search(query, n_results=5)
+results = rerank_results(query, results)
 
-    "The customer says they paid using another payment method. What should the merchant do?",
+print("\n" + "=" * 80)
+print("RETRIEVAL RESULTS")
+print("=" * 80)
 
-    "What evidence can support a card-absent fraud dispute?",
+for i, metadata in enumerate(results["metadatas"][0]):
+    distance = results["distances"][0][i]
 
-]
-
-
-for query in queries:
-
-    print("\n\n" + "#" * 80)
-    print("QUERY:", query)
-
-    results = search(query, n_results=5)
-
-    context = build_context(results)
-
-    prompt = build_rag_prompt(query, context)
-
-    print("\n" + "=" * 80)
-    print("RAG PROMPT")
-    print("=" * 80)
-    print(prompt)
+    print(f"\nRESULT {i + 1}")
+    print("-" * 40)
+    print(f"Condition : {metadata.get('condition', 'N/A')}")
+    print(f"Title     : {metadata.get('title', 'N/A')}")
+    print(f"Pages     : {metadata.get('printed_pages', 'N/A')}")
+    print(f"Distance  : {distance:.4f}")
