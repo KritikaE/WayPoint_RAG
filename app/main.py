@@ -1,7 +1,7 @@
 import sys
 
-
 from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 
 sys.path.insert(0, "src")
 
@@ -13,6 +13,16 @@ app = FastAPI(
     title="WayPoint RAG API",
     description="Visa Dispute & Chargeback Policy RAG API",
     version="1.0.0",
+)
+
+
+# Allow the React frontend to communicate with the API
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 
@@ -31,6 +41,7 @@ def ask(request: AskRequest):
 
     try:
         return ask_question(request.question)
+
     except Exception as e:
         raise HTTPException(
             status_code=500,
