@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 
-const API_URL = "http://waypoint-rag.onrender.com/";
+const API_URL = "https://waypoint-rag.onrender.com";
 
 const suggestions = [
   "Customer charged twice",
